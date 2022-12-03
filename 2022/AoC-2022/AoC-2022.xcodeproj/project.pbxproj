@@ -1,0 +1,362 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AC573911293B119D004F0D83 /* day-1-challenge-1-input.txt in Resources */ = {isa = PBXBuildFile; fileRef = AC573910293B119D004F0D83 /* day-1-challenge-1-input.txt */; };
+		ACC317E3293AEB4200F7735E /* AoC_Tests_2022.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACC317E2293AEB4200F7735E /* AoC_Tests_2022.swift */; };
+		ACC317E8293AEB8300F7735E /* Day-1.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACC317E7293AEB8300F7735E /* Day-1.swift */; };
+		ACC317EB293AEBAF00F7735E /* Realm in Frameworks */ = {isa = PBXBuildFile; productRef = ACC317EA293AEBAF00F7735E /* Realm */; };
+		ACC317ED293AEBAF00F7735E /* RealmSwift in Frameworks */ = {isa = PBXBuildFile; productRef = ACC317EC293AEBAF00F7735E /* RealmSwift */; };
+		ACC317F6293AFD1000F7735E /* day-1-test-input.txt in Resources */ = {isa = PBXBuildFile; fileRef = ACC317F5293AFD1000F7735E /* day-1-test-input.txt */; };
+		ACC317F8293B00A100F7735E /* Helpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACC317F7293B00A100F7735E /* Helpers.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		AC573910293B119D004F0D83 /* day-1-challenge-1-input.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "day-1-challenge-1-input.txt"; sourceTree = "<group>"; };
+		ACC317DF293AEB4200F7735E /* AoC-Tests-2022.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "AoC-Tests-2022.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		ACC317E2293AEB4200F7735E /* AoC_Tests_2022.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AoC_Tests_2022.swift; sourceTree = "<group>"; };
+		ACC317E7293AEB8300F7735E /* Day-1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Day-1.swift"; sourceTree = "<group>"; };
+		ACC317F5293AFD1000F7735E /* day-1-test-input.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "day-1-test-input.txt"; sourceTree = "<group>"; };
+		ACC317F7293B00A100F7735E /* Helpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helpers.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		ACC317DC293AEB4200F7735E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ACC317ED293AEBAF00F7735E /* RealmSwift in Frameworks */,
+				ACC317EB293AEBAF00F7735E /* Realm in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AC57390F293B0634004F0D83 /* Inputs */ = {
+			isa = PBXGroup;
+			children = (
+				AC573910293B119D004F0D83 /* day-1-challenge-1-input.txt */,
+				ACC317F5293AFD1000F7735E /* day-1-test-input.txt */,
+			);
+			path = Inputs;
+			sourceTree = "<group>";
+		};
+		ACC317D1293AEA2A00F7735E = {
+			isa = PBXGroup;
+			children = (
+				ACC317E1293AEB4200F7735E /* AoC-Tests-2022 */,
+				ACC317E0293AEB4200F7735E /* Products */,
+				ACC317E9293AEBAF00F7735E /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		ACC317E0293AEB4200F7735E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				ACC317DF293AEB4200F7735E /* AoC-Tests-2022.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		ACC317E1293AEB4200F7735E /* AoC-Tests-2022 */ = {
+			isa = PBXGroup;
+			children = (
+				AC57390F293B0634004F0D83 /* Inputs */,
+				ACC317E2293AEB4200F7735E /* AoC_Tests_2022.swift */,
+				ACC317E7293AEB8300F7735E /* Day-1.swift */,
+				ACC317F7293B00A100F7735E /* Helpers.swift */,
+			);
+			path = "AoC-Tests-2022";
+			sourceTree = "<group>";
+		};
+		ACC317E9293AEBAF00F7735E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		ACC317DE293AEB4200F7735E /* AoC-Tests-2022 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = ACC317E4293AEB4200F7735E /* Build configuration list for PBXNativeTarget "AoC-Tests-2022" */;
+			buildPhases = (
+				ACC317DB293AEB4200F7735E /* Sources */,
+				ACC317DC293AEB4200F7735E /* Frameworks */,
+				ACC317DD293AEB4200F7735E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "AoC-Tests-2022";
+			packageProductDependencies = (
+				ACC317EA293AEBAF00F7735E /* Realm */,
+				ACC317EC293AEBAF00F7735E /* RealmSwift */,
+			);
+			productName = "AoC-Tests-2022";
+			productReference = ACC317DF293AEB4200F7735E /* AoC-Tests-2022.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		ACC317D2293AEA2A00F7735E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1410;
+				LastUpgradeCheck = 1410;
+				TargetAttributes = {
+					ACC317DE293AEB4200F7735E = {
+						CreatedOnToolsVersion = 14.1;
+					};
+				};
+			};
+			buildConfigurationList = ACC317D5293AEA2A00F7735E /* Build configuration list for PBXProject "AoC-2022" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = ACC317D1293AEA2A00F7735E;
+			packageReferences = (
+				ACC317D8293AEA7D00F7735E /* XCRemoteSwiftPackageReference "realm-swift" */,
+			);
+			productRefGroup = ACC317E0293AEB4200F7735E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				ACC317DE293AEB4200F7735E /* AoC-Tests-2022 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		ACC317DD293AEB4200F7735E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AC573911293B119D004F0D83 /* day-1-challenge-1-input.txt in Resources */,
+				ACC317F6293AFD1000F7735E /* day-1-test-input.txt in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		ACC317DB293AEB4200F7735E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ACC317E8293AEB8300F7735E /* Day-1.swift in Sources */,
+				ACC317F8293B00A100F7735E /* Helpers.swift in Sources */,
+				ACC317E3293AEB4200F7735E /* AoC_Tests_2022.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		ACC317D6293AEA2A00F7735E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		ACC317D7293AEA2A00F7735E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+		ACC317E5293AEB4200F7735E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = BM8U9T4CJ6;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.6;
+				MARKETING_VERSION = 1.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.dacharycarey.AoC-Tests-2022";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		ACC317E6293AEB4200F7735E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = BM8U9T4CJ6;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.6;
+				MARKETING_VERSION = 1.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.dacharycarey.AoC-Tests-2022";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		ACC317D5293AEA2A00F7735E /* Build configuration list for PBXProject "AoC-2022" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ACC317D6293AEA2A00F7735E /* Debug */,
+				ACC317D7293AEA2A00F7735E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		ACC317E4293AEB4200F7735E /* Build configuration list for PBXNativeTarget "AoC-Tests-2022" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ACC317E5293AEB4200F7735E /* Debug */,
+				ACC317E6293AEB4200F7735E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		ACC317D8293AEA7D00F7735E /* XCRemoteSwiftPackageReference "realm-swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/realm/realm-swift";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 10.33.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		ACC317EA293AEBAF00F7735E /* Realm */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = ACC317D8293AEA7D00F7735E /* XCRemoteSwiftPackageReference "realm-swift" */;
+			productName = Realm;
+		};
+		ACC317EC293AEBAF00F7735E /* RealmSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = ACC317D8293AEA7D00F7735E /* XCRemoteSwiftPackageReference "realm-swift" */;
+			productName = RealmSwift;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = ACC317D2293AEA2A00F7735E /* Project object */;
+}

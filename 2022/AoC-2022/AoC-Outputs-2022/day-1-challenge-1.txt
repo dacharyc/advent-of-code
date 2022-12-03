@@ -1,0 +1,2025 @@
+// Not enough elf names in the list! But that's ok - they all had UUIDs.
+
+Gimbel has a Ritz Crackers worth 3062 calories
+Gimbel has a 100 Grand worth 2753 calories
+Gimbel has a Sun Chips worth 1722 calories
+Gimbel has a UTZ Cheese Balls worth 10422 calories
+Gimbel has a Milky Way worth 8110 calories
+Gimbel has a Bugels worth 7124 calories
+Gimbel is carrying 43456 calories worth of food
+The Elf carrying the most calories is Gimbel with 43456
+Thranduil has a Ferrero Rocher worth 5178 calories
+Thranduil has a Ritz Crackers worth 3719 calories
+Thranduil has a Butterfinger worth 1349 calories
+Thranduil has a 100 Grand worth 3162 calories
+Thranduil has a Oatmeal Cream Pies worth 2413 calories
+Thranduil has a Sun Chips worth 8788 calories
+Thranduil has a UTZ Cheese Balls worth 2560 calories
+Thranduil has a Chocolate Chip Coookies worth 4780 calories
+Thranduil has a Bugels worth 1052 calories
+Thranduil is carrying 39118 calories worth of food
+The Elf carrying the most calories is Gimbel with 43456
+Elrond has a 100 Grand worth 24919 calories
+Elrond has a UTZ Cheese Balls worth 18045 calories
+Elrond has a Bugels worth 15983 calories
+Elrond is carrying 58947 calories worth of food
+The Elf carrying the most calories is Elrond with 58947
+Link has a 100 Grand worth 24872 calories
+Link has a Sun Chips worth 35761 calories
+Link is carrying 60633 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Bernard has a Sun Chips worth 20914 calories
+Bernard is carrying 20914 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Link has a Butterfinger worth 3794 calories
+Link has a Reese's Peanut Butter Cups worth 4701 calories
+Link has a Cashews worth 1014 calories
+Link has a Oatmeal Cream Pies worth 7592 calories
+Link has a Bugels worth 12219 calories
+Link has a Nutter Butter worth 6893 calories
+Link is carrying 36213 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Buddy has a Ferrero Rocher worth 2255 calories
+Buddy has a Reese's Peanut Butter Cups worth 4297 calories
+Buddy has a Cashews worth 8135 calories
+Buddy has a Doritos worth 2015 calories
+Buddy has a UTZ Cheese Balls worth 5100 calories
+Buddy is carrying 40734 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Celeborn has a 100 Grand worth 8016 calories
+Celeborn has a Cashews worth 1149 calories
+Celeborn has a UTZ Cheese Balls worth 8886 calories
+Celeborn has a Chocolate Chip Coookies worth 1487 calories
+Celeborn has a Milky Way worth 8289 calories
+Celeborn is carrying 44878 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Elfo has a Ritz Crackers worth 3624 calories
+Elfo has a Reese's Peanut Butter Cups worth 9217 calories
+Elfo has a Sun Chips worth 4729 calories
+Elfo has a Milky Way worth 8082 calories
+Elfo has a Nutter Butter worth 7947 calories
+Elfo is carrying 54194 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Legolas has a Ritz Crackers worth 6582 calories
+Legolas has a Butterfinger worth 5476 calories
+Legolas has a 100 Grand worth 7897 calories
+Legolas has a Reese's Peanut Butter Cups worth 8643 calories
+Legolas has a Oatmeal Cream Pies worth 6473 calories
+Legolas has a Sun Chips worth 1728 calories
+Legolas has a UTZ Cheese Balls worth 4093 calories
+Legolas has a Chocolate Chip Coookies worth 6644 calories
+Legolas is carrying 54583 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Thranduil has a Ritz Crackers worth 2319 calories
+Thranduil has a 100 Grand worth 15407 calories
+Thranduil has a Oatmeal Cream Pies worth 22021 calories
+Thranduil is carrying 39747 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Pop has a Ritz Crackers worth 2831 calories
+Pop has a Reese's Peanut Butter Cups worth 6318 calories
+Pop has a Doritos worth 4432 calories
+Pop has a Sun Chips worth 6085 calories
+Pop has a Chocolate Chip Coookies worth 2795 calories
+Pop has a Bugels worth 1003 calories
+Pop has a Nutter Butter worth 6382 calories
+Pop is carrying 49539 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Celeborn has a Ferrero Rocher worth 5351 calories
+Celeborn has a Ritz Crackers worth 6918 calories
+Celeborn has a 100 Grand worth 1162 calories
+Celeborn has a Cashews worth 1033 calories
+Celeborn has a Doritos worth 1390 calories
+Celeborn has a Sun Chips worth 4426 calories
+Celeborn has a UTZ Cheese Balls worth 3407 calories
+Celeborn has a Chocolate Chip Coookies worth 6476 calories
+Celeborn has a Bugels worth 6198 calories
+Celeborn is carrying 52042 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Bernard has a Butterfinger worth 1526 calories
+Bernard has a 100 Grand worth 8175 calories
+Bernard has a Cashews worth 5507 calories
+Bernard has a Oatmeal Cream Pies worth 6398 calories
+Bernard has a UTZ Cheese Balls worth 7680 calories
+Bernard has a Chocolate Chip Coookies worth 6183 calories
+Bernard has a Milky Way worth 3282 calories
+Bernard has a Bugels worth 4522 calories
+Bernard has a Nutter Butter worth 8071 calories
+Bernard is carrying 51344 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Pop has a Ferrero Rocher worth 2301 calories
+Pop has a Butterfinger worth 8533 calories
+Pop has a Reese's Peanut Butter Cups worth 3140 calories
+Pop has a Doritos worth 5700 calories
+Pop has a Sun Chips worth 3279 calories
+Pop has a Chocolate Chip Coookies worth 6464 calories
+Pop has a Bugels worth 2374 calories
+Pop has a Nutter Butter worth 3686 calories
+Pop is carrying 41106 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Bernard has a Ferrero Rocher worth 13663 calories
+Bernard has a Reese's Peanut Butter Cups worth 6031 calories
+Bernard has a Doritos worth 6803 calories
+Bernard has a Oatmeal Cream Pies worth 11160 calories
+Bernard has a Sun Chips worth 4072 calories
+Bernard has a Nutter Butter worth 6393 calories
+Bernard is carrying 48122 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Dobby has a Reese's Peanut Butter Cups worth 7976 calories
+Dobby has a Doritos worth 1279 calories
+Dobby has a Oatmeal Cream Pies worth 1156 calories
+Dobby has a Sun Chips worth 7668 calories
+Dobby has a UTZ Cheese Balls worth 1326 calories
+Dobby is carrying 29782 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Kreacher has a 100 Grand worth 3945 calories
+Kreacher has a Reese's Peanut Butter Cups worth 13777 calories
+Kreacher has a Cashews worth 5502 calories
+Kreacher has a Doritos worth 7711 calories
+Kreacher is carrying 33518 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Bing has a Ritz Crackers worth 15510 calories
+Bing has a Chocolate Chip Coookies worth 34906 calories
+Bing is carrying 50416 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Celeborn has a Ritz Crackers worth 5648 calories
+Celeborn has a Reese's Peanut Butter Cups worth 6765 calories
+Celeborn has a Doritos worth 4153 calories
+Celeborn has a Oatmeal Cream Pies worth 3058 calories
+Celeborn has a Sun Chips worth 1128 calories
+Celeborn has a UTZ Cheese Balls worth 4147 calories
+Celeborn has a Chocolate Chip Coookies worth 1968 calories
+Celeborn has a Milky Way worth 6541 calories
+Celeborn has a Bugels worth 7017 calories
+Celeborn is carrying 50011 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Elfo has a Cashews worth 8021 calories
+Elfo has a Oatmeal Cream Pies worth 7467 calories
+Elfo has a UTZ Cheese Balls worth 2891 calories
+Elfo has a Chocolate Chip Coookies worth 2875 calories
+Elfo has a Milky Way worth 9116 calories
+Elfo is carrying 47448 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Snap has a Doritos worth 18630 calories
+Snap is carrying 18630 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Buddy has a 100 Grand worth 32798 calories
+Buddy has a Chocolate Chip Coookies worth 19644 calories
+Buddy is carrying 52442 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Crackle has a Ferrero Rocher worth 3592 calories
+Crackle has a 100 Grand worth 5887 calories
+Crackle has a Reese's Peanut Butter Cups worth 1179 calories
+Crackle has a Cashews worth 3971 calories
+Crackle has a Oatmeal Cream Pies worth 4764 calories
+Crackle has a UTZ Cheese Balls worth 1287 calories
+Crackle has a Chocolate Chip Coookies worth 3597 calories
+Crackle has a Milky Way worth 3770 calories
+Crackle has a Bugels worth 1015 calories
+Crackle is carrying 54678 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Dobby has a Butterfinger worth 3311 calories
+Dobby has a Cashews worth 2786 calories
+Dobby has a Oatmeal Cream Pies worth 7482 calories
+Dobby is carrying 13579 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Gimbel has a Ferrero Rocher worth 1036 calories
+Gimbel has a 100 Grand worth 7272 calories
+Gimbel has a Reese's Peanut Butter Cups worth 2424 calories
+Gimbel has a Cashews worth 7110 calories
+Gimbel has a Sun Chips worth 6561 calories
+Gimbel has a UTZ Cheese Balls worth 5647 calories
+Gimbel has a Chocolate Chip Coookies worth 3192 calories
+Gimbel has a Milky Way worth 3110 calories
+Gimbel has a Nutter Butter worth 2554 calories
+Gimbel is carrying 51695 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Legolas has a Butterfinger worth 4227 calories
+Legolas has a Reese's Peanut Butter Cups worth 2679 calories
+Legolas has a Cashews worth 5278 calories
+Legolas has a Doritos worth 3818 calories
+Legolas has a Oatmeal Cream Pies worth 1020 calories
+Legolas has a UTZ Cheese Balls worth 3751 calories
+Legolas has a Chocolate Chip Coookies worth 1410 calories
+Legolas has a Milky Way worth 5858 calories
+Legolas has a Bugels worth 3472 calories
+Legolas is carrying 48854 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Aegnor has a Reese's Peanut Butter Cups worth 4588 calories
+Aegnor has a Cashews worth 3568 calories
+Aegnor has a Doritos worth 3692 calories
+Aegnor has a Oatmeal Cream Pies worth 4305 calories
+Aegnor has a Sun Chips worth 3864 calories
+Aegnor has a Milky Way worth 3263 calories
+Aegnor has a Bugels worth 1430 calories
+Aegnor has a Nutter Butter worth 2585 calories
+Aegnor is carrying 50744 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Crackle has a Ferrero Rocher worth 3601 calories
+Crackle has a Butterfinger worth 6029 calories
+Crackle has a Reese's Peanut Butter Cups worth 1134 calories
+Crackle has a Cashews worth 5142 calories
+Crackle has a Doritos worth 1096 calories
+Crackle has a Sun Chips worth 4165 calories
+Crackle has a Chocolate Chip Coookies worth 4949 calories
+Crackle has a Milky Way worth 1397 calories
+Crackle is carrying 49241 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Celeborn has a Doritos worth 11384 calories
+Celeborn has a Milky Way worth 27593 calories
+Celeborn is carrying 38977 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Thranduil has a Ferrero Rocher worth 2462 calories
+Thranduil has a Ritz Crackers worth 5554 calories
+Thranduil has a Butterfinger worth 4582 calories
+Thranduil has a Cashews worth 1688 calories
+Thranduil has a Doritos worth 1807 calories
+Thranduil has a Oatmeal Cream Pies worth 3324 calories
+Thranduil has a UTZ Cheese Balls worth 1222 calories
+Thranduil has a Chocolate Chip Coookies worth 5012 calories
+Thranduil has a Milky Way worth 3150 calories
+Thranduil has a Nutter Butter worth 1333 calories
+Thranduil is carrying 48424 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Elfo has a Butterfinger worth 10827 calories
+Elfo has a Reese's Peanut Butter Cups worth 5079 calories
+Elfo has a Chocolate Chip Coookies worth 11803 calories
+Elfo has a Milky Way worth 10400 calories
+Elfo has a Nutter Butter worth 5426 calories
+Elfo is carrying 50897 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Buddy has a Ferrero Rocher worth 1780 calories
+Buddy has a Butterfinger worth 7246 calories
+Buddy has a 100 Grand worth 8211 calories
+Buddy has a Reese's Peanut Butter Cups worth 4410 calories
+Buddy has a Oatmeal Cream Pies worth 3917 calories
+Buddy has a Bugels worth 8381 calories
+Buddy has a Nutter Butter worth 4890 calories
+Buddy is carrying 53179 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Kreacher has a Ferrero Rocher worth 3079 calories
+Kreacher has a Ritz Crackers worth 3796 calories
+Kreacher has a Butterfinger worth 3240 calories
+Kreacher has a Cashews worth 6854 calories
+Kreacher has a Sun Chips worth 3492 calories
+Kreacher has a Nutter Butter worth 2674 calories
+Kreacher is carrying 40317 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Bernard has a Ritz Crackers worth 7453 calories
+Bernard has a 100 Grand worth 6827 calories
+Bernard has a Reese's Peanut Butter Cups worth 10517 calories
+Bernard has a Doritos worth 10768 calories
+Bernard has a Milky Way worth 3205 calories
+Bernard has a Bugels worth 4257 calories
+Bernard is carrying 49760 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Gimbel has a Ferrero Rocher worth 2371 calories
+Gimbel has a Ritz Crackers worth 3029 calories
+Gimbel has a Doritos worth 4084 calories
+Gimbel has a Sun Chips worth 1693 calories
+Gimbel has a Milky Way worth 9012 calories
+Gimbel has a Bugels worth 1434 calories
+Gimbel is carrying 24461 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Dobby has a Ferrero Rocher worth 8249 calories
+Dobby has a Ritz Crackers worth 3606 calories
+Dobby has a Reese's Peanut Butter Cups worth 4327 calories
+Dobby has a UTZ Cheese Balls worth 11413 calories
+Dobby has a Nutter Butter worth 9088 calories
+Dobby is carrying 49917 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Buddy has a Ritz Crackers worth 10066 calories
+Buddy has a Butterfinger worth 2892 calories
+Buddy has a Oatmeal Cream Pies worth 6987 calories
+Buddy has a Chocolate Chip Coookies worth 11807 calories
+Buddy has a Bugels worth 5783 calories
+Buddy is carrying 37535 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Gimbel has a Oatmeal Cream Pies worth 10352 calories
+Gimbel has a Sun Chips worth 23737 calories
+Gimbel has a UTZ Cheese Balls worth 2796 calories
+Gimbel is carrying 36885 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Gimbel has a Bugels worth 2634 calories
+Gimbel is carrying 2634 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Pop has a Nutter Butter worth 49880 calories
+Pop is carrying 49880 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Arwen has a Oatmeal Cream Pies worth 22996 calories
+Arwen has a UTZ Cheese Balls worth 19146 calories
+Arwen is carrying 46827 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Buddy has a Chocolate Chip Coookies worth 28725 calories
+Buddy is carrying 28725 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Crackle has a Ferrero Rocher worth 15169 calories
+Crackle has a 100 Grand worth 5352 calories
+Crackle has a Doritos worth 2120 calories
+Crackle has a Chocolate Chip Coookies worth 8027 calories
+Crackle has a Milky Way worth 2138 calories
+Crackle is carrying 32806 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Snap has a Reese's Peanut Butter Cups worth 6615 calories
+Snap is carrying 6615 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Bernard has a Doritos worth 8435 calories
+Bernard has a Sun Chips worth 11850 calories
+Bernard has a Chocolate Chip Coookies worth 8987 calories
+Bernard has a Milky Way worth 8972 calories
+Bernard has a Nutter Butter worth 5491 calories
+Bernard is carrying 56620 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Dobby has a Ferrero Rocher worth 5998 calories
+Dobby has a Ritz Crackers worth 3344 calories
+Dobby has a Butterfinger worth 5393 calories
+Dobby has a 100 Grand worth 2644 calories
+Dobby has a Reese's Peanut Butter Cups worth 6150 calories
+Dobby has a Cashews worth 2538 calories
+Dobby has a Oatmeal Cream Pies worth 4479 calories
+Dobby has a UTZ Cheese Balls worth 8412 calories
+Dobby is carrying 46701 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Zippity has a Ritz Crackers worth 11058 calories
+Zippity has a Butterfinger worth 9689 calories
+Zippity has a Milky Way worth 18876 calories
+Zippity has a Bugels worth 9663 calories
+Zippity is carrying 49286 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Bing has a Ferrero Rocher worth 2722 calories
+Bing has a Ritz Crackers worth 6583 calories
+Bing has a Cashews worth 4396 calories
+Bing has a Oatmeal Cream Pies worth 7779 calories
+Bing has a Chocolate Chip Coookies worth 2848 calories
+Bing has a Nutter Butter worth 7549 calories
+Bing is carrying 43677 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Gimbel has a Ferrero Rocher worth 3942 calories
+Gimbel has a Butterfinger worth 7496 calories
+Gimbel has a Reese's Peanut Butter Cups worth 7862 calories
+Gimbel has a Cashews worth 7132 calories
+Gimbel has a Oatmeal Cream Pies worth 8904 calories
+Gimbel has a Sun Chips worth 5003 calories
+Gimbel has a Milky Way worth 6912 calories
+Gimbel has a Bugels worth 5370 calories
+Gimbel is carrying 55867 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Elfo has a Butterfinger worth 7290 calories
+Elfo has a 100 Grand worth 5481 calories
+Elfo has a Reese's Peanut Butter Cups worth 9582 calories
+Elfo has a Sun Chips worth 5152 calories
+Elfo has a Bugels worth 9559 calories
+Elfo is carrying 56542 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Hoppity has a Ferrero Rocher worth 9372 calories
+Hoppity has a Butterfinger worth 10086 calories
+Hoppity has a Cashews worth 3167 calories
+Hoppity is carrying 22625 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Bing has a Ritz Crackers worth 9869 calories
+Bing has a Butterfinger worth 4147 calories
+Bing has a 100 Grand worth 6777 calories
+Bing has a Reese's Peanut Butter Cups worth 4304 calories
+Bing has a Cashews worth 11462 calories
+Bing has a Sun Chips worth 7994 calories
+Bing is carrying 50336 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Link has a Ferrero Rocher worth 8294 calories
+Link has a Ritz Crackers worth 3947 calories
+Link has a Butterfinger worth 1528 calories
+Link has a Reese's Peanut Butter Cups worth 7838 calories
+Link has a Doritos worth 7863 calories
+Link has a Sun Chips worth 7105 calories
+Link has a Chocolate Chip Coookies worth 3160 calories
+Link has a Milky Way worth 2268 calories
+Link is carrying 55929 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Arwen has a Butterfinger worth 8439 calories
+Arwen has a 100 Grand worth 6423 calories
+Arwen has a Doritos worth 2700 calories
+Arwen has a Milky Way worth 2761 calories
+Arwen has a Bugels worth 5990 calories
+Arwen has a Nutter Butter worth 2024 calories
+Arwen is carrying 46799 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Kreacher has a Ritz Crackers worth 4345 calories
+Kreacher has a Doritos worth 12175 calories
+Kreacher has a UTZ Cheese Balls worth 1463 calories
+Kreacher has a Milky Way worth 11273 calories
+Kreacher has a Bugels worth 2099 calories
+Kreacher is carrying 37677 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Thranduil has a Ferrero Rocher worth 12435 calories
+Thranduil has a Bugels worth 10421 calories
+Thranduil is carrying 22856 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Gimbel has a Ferrero Rocher worth 3703 calories
+Gimbel has a Reese's Peanut Butter Cups worth 5726 calories
+Gimbel has a Doritos worth 2037 calories
+Gimbel has a Sun Chips worth 5558 calories
+Gimbel has a UTZ Cheese Balls worth 1627 calories
+Gimbel has a Chocolate Chip Coookies worth 4032 calories
+Gimbel has a Bugels worth 4028 calories
+Gimbel has a Nutter Butter worth 1023 calories
+Gimbel is carrying 44130 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Pop has a Ritz Crackers worth 17056 calories
+Pop has a 100 Grand worth 6110 calories
+Pop is carrying 29834 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Winky has a Ferrero Rocher worth 6673 calories
+Winky has a Ritz Crackers worth 6062 calories
+Winky has a Butterfinger worth 8375 calories
+Winky has a Cashews worth 2602 calories
+Winky has a Oatmeal Cream Pies worth 5081 calories
+Winky has a UTZ Cheese Balls worth 3542 calories
+Winky is carrying 51409 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Hoppity has a Sun Chips worth 30495 calories
+Hoppity has a Milky Way worth 10854 calories
+Hoppity is carrying 41349 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Bing has a Ritz Crackers worth 2120 calories
+Bing has a Butterfinger worth 4288 calories
+Bing has a 100 Grand worth 4479 calories
+Bing has a Reese's Peanut Butter Cups worth 3456 calories
+Bing has a Cashews worth 5662 calories
+Bing has a Oatmeal Cream Pies worth 2982 calories
+Bing has a UTZ Cheese Balls worth 3402 calories
+Bing has a Chocolate Chip Coookies worth 2945 calories
+Bing has a Milky Way worth 6776 calories
+Bing has a Nutter Butter worth 4373 calories
+Bing is carrying 49418 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Pop has a Ritz Crackers worth 4621 calories
+Pop has a Butterfinger worth 3355 calories
+Pop has a 100 Grand worth 2712 calories
+Pop has a Reese's Peanut Butter Cups worth 5460 calories
+Pop has a Oatmeal Cream Pies worth 3244 calories
+Pop has a Sun Chips worth 5429 calories
+Pop has a UTZ Cheese Balls worth 2698 calories
+Pop has a Chocolate Chip Coookies worth 4090 calories
+Pop has a Milky Way worth 4066 calories
+Pop has a Bugels worth 2772 calories
+Pop is carrying 58263 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Bernard has a Ritz Crackers worth 3636 calories
+Bernard has a Cashews worth 3965 calories
+Bernard has a Doritos worth 2658 calories
+Bernard has a Sun Chips worth 6662 calories
+Bernard has a Milky Way worth 7456 calories
+Bernard has a Nutter Butter worth 3756 calories
+Bernard is carrying 47822 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Link has a Ferrero Rocher worth 5193 calories
+Link has a 100 Grand worth 1622 calories
+Link has a Reese's Peanut Butter Cups worth 2936 calories
+Link has a Doritos worth 5299 calories
+Link has a Oatmeal Cream Pies worth 2279 calories
+Link has a Sun Chips worth 3615 calories
+Link has a UTZ Cheese Balls worth 1352 calories
+Link has a Chocolate Chip Coookies worth 5827 calories
+Link has a Milky Way worth 3009 calories
+Link has a Nutter Butter worth 6706 calories
+Link is carrying 50964 calories worth of food
+The Elf carrying the most calories is Link with 60633
+Snap has a Ritz Crackers worth 62000 calories
+Snap is carrying 62000 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Winky has a Ferrero Rocher worth 5030 calories
+Winky has a Doritos worth 2477 calories
+Winky has a Oatmeal Cream Pies worth 6685 calories
+Winky has a Sun Chips worth 2113 calories
+Winky has a UTZ Cheese Balls worth 5793 calories
+Winky has a Chocolate Chip Coookies worth 7792 calories
+Winky has a Milky Way worth 4652 calories
+Winky has a Bugels worth 4917 calories
+Winky has a Nutter Butter worth 6330 calories
+Winky is carrying 50936 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Link has a Butterfinger worth 12537 calories
+Link has a Cashews worth 24802 calories
+Link is carrying 37339 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Thranduil has a Reese's Peanut Butter Cups worth 8012 calories
+Thranduil has a Bugels worth 7935 calories
+Thranduil is carrying 15947 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Kreacher has a Ferrero Rocher worth 8245 calories
+Kreacher has a Ritz Crackers worth 6443 calories
+Kreacher has a Butterfinger worth 1956 calories
+Kreacher has a Reese's Peanut Butter Cups worth 2884 calories
+Kreacher has a Cashews worth 4554 calories
+Kreacher has a Sun Chips worth 4607 calories
+Kreacher has a Chocolate Chip Coookies worth 1969 calories
+Kreacher has a Milky Way worth 7653 calories
+Kreacher has a Nutter Butter worth 7395 calories
+Kreacher is carrying 48127 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Elrond has a Ferrero Rocher worth 5269 calories
+Elrond has a Ritz Crackers worth 2465 calories
+Elrond has a Butterfinger worth 4489 calories
+Elrond has a Doritos worth 4630 calories
+Elrond has a Sun Chips worth 6668 calories
+Elrond has a Milky Way worth 5451 calories
+Elrond is carrying 48117 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Hermey has a 100 Grand worth 15035 calories
+Hermey has a Reese's Peanut Butter Cups worth 6837 calories
+Hermey has a Milky Way worth 1789 calories
+Hermey is carrying 35684 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Hoppity has a Butterfinger worth 8927 calories
+Hoppity has a 100 Grand worth 3155 calories
+Hoppity has a Doritos worth 2603 calories
+Hoppity has a UTZ Cheese Balls worth 2128 calories
+Hoppity has a Milky Way worth 3719 calories
+Hoppity is carrying 47406 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Zippity has a Ferrero Rocher worth 2621 calories
+Zippity has a Ritz Crackers worth 7417 calories
+Zippity has a 100 Grand worth 11197 calories
+Zippity has a Sun Chips worth 6378 calories
+Zippity has a Bugels worth 3576 calories
+Zippity has a Nutter Butter worth 4048 calories
+Zippity is carrying 39644 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Bing has a Oatmeal Cream Pies worth 30617 calories
+Bing has a Bugels worth 26360 calories
+Bing is carrying 56977 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Gimbel has a Cashews worth 19475 calories
+Gimbel has a Sun Chips worth 5540 calories
+Gimbel has a Chocolate Chip Coookies worth 14236 calories
+Gimbel is carrying 56158 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Elfo has a Sun Chips worth 12536 calories
+Elfo has a UTZ Cheese Balls worth 28934 calories
+Elfo is carrying 41470 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Dobby has a Doritos worth 12942 calories
+Dobby has a Oatmeal Cream Pies worth 8992 calories
+Dobby has a Milky Way worth 9843 calories
+Dobby has a Bugels worth 10281 calories
+Dobby is carrying 42058 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Zippity has a Chocolate Chip Coookies worth 7704 calories
+Zippity has a Nutter Butter worth 12753 calories
+Zippity is carrying 20457 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Link has a UTZ Cheese Balls worth 16937 calories
+Link has a Milky Way worth 14617 calories
+Link is carrying 31554 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Pop has a Reese's Peanut Butter Cups worth 1298 calories
+Pop has a Cashews worth 2474 calories
+Pop has a Chocolate Chip Coookies worth 11648 calories
+Pop has a Milky Way worth 13000 calories
+Pop has a Nutter Butter worth 3020 calories
+Pop is carrying 37569 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Kreacher has a Ferrero Rocher worth 2762 calories
+Kreacher has a Butterfinger worth 3020 calories
+Kreacher has a 100 Grand worth 3278 calories
+Kreacher has a Doritos worth 5909 calories
+Kreacher has a Milky Way worth 3604 calories
+Kreacher has a Nutter Butter worth 1956 calories
+Kreacher is carrying 42220 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Kreacher has a Sun Chips worth 8949 calories
+Kreacher has a Milky Way worth 32474 calories
+Kreacher is carrying 41423 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Crackle has a Ferrero Rocher worth 4165 calories
+Crackle has a Reese's Peanut Butter Cups worth 2575 calories
+Crackle has a Oatmeal Cream Pies worth 2977 calories
+Crackle has a UTZ Cheese Balls worth 6043 calories
+Crackle has a Chocolate Chip Coookies worth 4038 calories
+Crackle has a Bugels worth 9354 calories
+Crackle has a Nutter Butter worth 11532 calories
+Crackle is carrying 40684 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Hoppity has a Ritz Crackers worth 21589 calories
+Hoppity has a Reese's Peanut Butter Cups worth 16780 calories
+Hoppity has a Oatmeal Cream Pies worth 15519 calories
+Hoppity is carrying 53888 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Legolas has a Butterfinger worth 3057 calories
+Legolas has a Sun Chips worth 7937 calories
+Legolas has a UTZ Cheese Balls worth 4959 calories
+Legolas has a Chocolate Chip Coookies worth 4256 calories
+Legolas has a Milky Way worth 6570 calories
+Legolas has a Bugels worth 2567 calories
+Legolas has a Nutter Butter worth 1176 calories
+Legolas is carrying 41173 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Arwen has a Butterfinger worth 5442 calories
+Arwen has a 100 Grand worth 4265 calories
+Arwen has a Reese's Peanut Butter Cups worth 3914 calories
+Arwen has a Cashews worth 5325 calories
+Arwen has a Doritos worth 1534 calories
+Arwen has a UTZ Cheese Balls worth 3162 calories
+Arwen has a Chocolate Chip Coookies worth 4123 calories
+Arwen has a Milky Way worth 5075 calories
+Arwen has a Bugels worth 1536 calories
+Arwen has a Nutter Butter worth 4853 calories
+Arwen is carrying 55141 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Kreacher has a Butterfinger worth 4121 calories
+Kreacher has a Sun Chips worth 21076 calories
+Kreacher has a Bugels worth 21413 calories
+Kreacher is carrying 46610 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Thranduil has a Cashews worth 5350 calories
+Thranduil has a Oatmeal Cream Pies worth 3051 calories
+Thranduil has a Chocolate Chip Coookies worth 15060 calories
+Thranduil is carrying 41266 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Thranduil has a Butterfinger worth 4119 calories
+Thranduil has a 100 Grand worth 16142 calories
+Thranduil has a Cashews worth 6444 calories
+Thranduil is carrying 26705 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Elfo has a Ferrero Rocher worth 3016 calories
+Elfo has a Ritz Crackers worth 1593 calories
+Elfo has a Butterfinger worth 12402 calories
+Elfo has a Sun Chips worth 7042 calories
+Elfo has a Chocolate Chip Coookies worth 10837 calories
+Elfo is carrying 47592 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Hermey has a Ritz Crackers worth 10933 calories
+Hermey has a Cashews worth 1192 calories
+Hermey has a UTZ Cheese Balls worth 1669 calories
+Hermey has a Milky Way worth 1898 calories
+Hermey has a Bugels worth 9621 calories
+Hermey is carrying 39210 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Arwen has a Ferrero Rocher worth 4554 calories
+Arwen has a Ritz Crackers worth 2882 calories
+Arwen has a Reese's Peanut Butter Cups worth 2963 calories
+Arwen has a Cashews worth 2303 calories
+Arwen has a Oatmeal Cream Pies worth 2915 calories
+Arwen has a Sun Chips worth 2849 calories
+Arwen has a UTZ Cheese Balls worth 3715 calories
+Arwen has a Milky Way worth 2041 calories
+Arwen has a Bugels worth 3555 calories
+Arwen has a Nutter Butter worth 4589 calories
+Arwen is carrying 50995 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Crackle has a Ferrero Rocher worth 4040 calories
+Crackle has a Cashews worth 7289 calories
+Crackle has a Doritos worth 15158 calories
+Crackle has a Chocolate Chip Coookies worth 11964 calories
+Crackle has a Milky Way worth 1263 calories
+Crackle is carrying 39714 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Bing has a Ritz Crackers worth 4622 calories
+Bing has a Butterfinger worth 3503 calories
+Bing has a Reese's Peanut Butter Cups worth 5643 calories
+Bing has a Cashews worth 5623 calories
+Bing has a Doritos worth 3563 calories
+Bing has a Sun Chips worth 3715 calories
+Bing has a Chocolate Chip Coookies worth 3138 calories
+Bing has a Nutter Butter worth 6335 calories
+Bing is carrying 52914 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Celeborn has a Cashews worth 13679 calories
+Celeborn has a Sun Chips worth 11665 calories
+Celeborn has a Chocolate Chip Coookies worth 8239 calories
+Celeborn has a Bugels worth 13069 calories
+Celeborn is carrying 55856 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Gimbel has a 100 Grand worth 3795 calories
+Gimbel has a Cashews worth 4005 calories
+Gimbel has a Doritos worth 3999 calories
+Gimbel has a Sun Chips worth 2589 calories
+Gimbel has a UTZ Cheese Balls worth 9340 calories
+Gimbel has a Nutter Butter worth 3263 calories
+Gimbel is carrying 33644 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Gimbel has a Ritz Crackers worth 1744 calories
+Gimbel has a Butterfinger worth 6015 calories
+Gimbel has a Reese's Peanut Butter Cups worth 7489 calories
+Gimbel has a UTZ Cheese Balls worth 6505 calories
+Gimbel has a Milky Way worth 7500 calories
+Gimbel has a Bugels worth 2376 calories
+Gimbel is carrying 45058 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Kreacher has a Butterfinger worth 9225 calories
+Kreacher has a Cashews worth 9771 calories
+Kreacher has a Oatmeal Cream Pies worth 15648 calories
+Kreacher has a Chocolate Chip Coookies worth 6353 calories
+Kreacher is carrying 40997 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Zippity has a Ferrero Rocher worth 6191 calories
+Zippity has a Ritz Crackers worth 5956 calories
+Zippity has a Butterfinger worth 4567 calories
+Zippity has a 100 Grand worth 3807 calories
+Zippity has a Reese's Peanut Butter Cups worth 2812 calories
+Zippity has a Cashews worth 4315 calories
+Zippity has a Doritos worth 3389 calories
+Zippity has a Oatmeal Cream Pies worth 4032 calories
+Zippity has a Sun Chips worth 3900 calories
+Zippity has a Chocolate Chip Coookies worth 3835 calories
+Zippity has a Nutter Butter worth 6049 calories
+Zippity is carrying 60435 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Kreacher has a Ritz Crackers worth 16811 calories
+Kreacher has a Butterfinger worth 15646 calories
+Kreacher has a 100 Grand worth 9856 calories
+Kreacher has a Chocolate Chip Coookies worth 9434 calories
+Kreacher is carrying 51747 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Legolas has a Ritz Crackers worth 6185 calories
+Legolas has a Butterfinger worth 4535 calories
+Legolas has a 100 Grand worth 4460 calories
+Legolas has a Doritos worth 1974 calories
+Legolas has a Oatmeal Cream Pies worth 2637 calories
+Legolas has a Sun Chips worth 3216 calories
+Legolas has a Chocolate Chip Coookies worth 6432 calories
+Legolas has a Milky Way worth 3924 calories
+Legolas has a Nutter Butter worth 4971 calories
+Legolas is carrying 55492 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Arwen has a Ferrero Rocher worth 10183 calories
+Arwen has a Butterfinger worth 8977 calories
+Arwen has a Cashews worth 9341 calories
+Arwen has a UTZ Cheese Balls worth 2084 calories
+Arwen has a Milky Way worth 2145 calories
+Arwen has a Nutter Butter worth 11586 calories
+Arwen is carrying 52302 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Snap has a Butterfinger worth 17836 calories
+Snap has a 100 Grand worth 4685 calories
+Snap has a Reese's Peanut Butter Cups worth 8276 calories
+Snap has a Bugels worth 12887 calories
+Snap is carrying 43684 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Legolas has a Ritz Crackers worth 4388 calories
+Legolas has a Reese's Peanut Butter Cups worth 3995 calories
+Legolas has a Doritos worth 4553 calories
+Legolas has a Bugels worth 1097 calories
+Legolas has a Nutter Butter worth 2380 calories
+Legolas is carrying 40888 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Dobby has a Ritz Crackers worth 11132 calories
+Dobby has a Butterfinger worth 4659 calories
+Dobby has a 100 Grand worth 8223 calories
+Dobby has a Doritos worth 1915 calories
+Dobby has a Sun Chips worth 7510 calories
+Dobby has a Bugels worth 11049 calories
+Dobby is carrying 44488 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Aegnor has a Butterfinger worth 16691 calories
+Aegnor has a UTZ Cheese Balls worth 9972 calories
+Aegnor has a Chocolate Chip Coookies worth 4913 calories
+Aegnor has a Nutter Butter worth 8607 calories
+Aegnor is carrying 40183 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Gimbel has a Butterfinger worth 1160 calories
+Gimbel has a 100 Grand worth 6436 calories
+Gimbel has a Reese's Peanut Butter Cups worth 9051 calories
+Gimbel has a Cashews worth 4538 calories
+Gimbel has a UTZ Cheese Balls worth 5078 calories
+Gimbel has a Chocolate Chip Coookies worth 8171 calories
+Gimbel has a Bugels worth 6253 calories
+Gimbel has a Nutter Butter worth 7210 calories
+Gimbel is carrying 53371 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Snap has a Chocolate Chip Coookies worth 7244 calories
+Snap has a Milky Way worth 16053 calories
+Snap is carrying 23297 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Hoppity has a Ritz Crackers worth 11209 calories
+Hoppity has a Cashews worth 16289 calories
+Hoppity has a Doritos worth 13125 calories
+Hoppity is carrying 40623 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Celeborn has a Ferrero Rocher worth 12316 calories
+Celeborn has a 100 Grand worth 18073 calories
+Celeborn has a Milky Way worth 18146 calories
+Celeborn has a Nutter Butter worth 7433 calories
+Celeborn is carrying 55968 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Hermey has a Reese's Peanut Butter Cups worth 12640 calories
+Hermey has a Doritos worth 7592 calories
+Hermey has a UTZ Cheese Balls worth 6436 calories
+Hermey has a Bugels worth 16372 calories
+Hermey is carrying 50370 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Bernard has a Ritz Crackers worth 2333 calories
+Bernard has a 100 Grand worth 4146 calories
+Bernard has a Reese's Peanut Butter Cups worth 15791 calories
+Bernard has a Bugels worth 8961 calories
+Bernard has a Nutter Butter worth 4640 calories
+Bernard is carrying 35871 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Hermey has a Ferrero Rocher worth 8804 calories
+Hermey has a Ritz Crackers worth 2972 calories
+Hermey has a Butterfinger worth 8411 calories
+Hermey has a 100 Grand worth 6092 calories
+Hermey has a Cashews worth 4059 calories
+Hermey has a Doritos worth 8919 calories
+Hermey has a Oatmeal Cream Pies worth 5195 calories
+Hermey has a UTZ Cheese Balls worth 4028 calories
+Hermey has a Nutter Butter worth 7108 calories
+Hermey is carrying 55588 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Pop has a Butterfinger worth 19422 calories
+Pop has a Oatmeal Cream Pies worth 7306 calories
+Pop has a Bugels worth 13788 calories
+Pop is carrying 44132 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Thranduil has a Ritz Crackers worth 3876 calories
+Thranduil has a 100 Grand worth 13656 calories
+Thranduil has a Cashews worth 6851 calories
+Thranduil has a Doritos worth 7067 calories
+Thranduil has a Bugels worth 2327 calories
+Thranduil has a Nutter Butter worth 9144 calories
+Thranduil is carrying 42921 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Snap has a Ritz Crackers worth 6089 calories
+Snap has a Butterfinger worth 6675 calories
+Snap has a Cashews worth 3532 calories
+Snap has a Oatmeal Cream Pies worth 2863 calories
+Snap has a UTZ Cheese Balls worth 3901 calories
+Snap has a Milky Way worth 1302 calories
+Snap has a Bugels worth 1531 calories
+Snap has a Nutter Butter worth 2583 calories
+Snap is carrying 40462 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Snap has a Ritz Crackers worth 12160 calories
+Snap has a Butterfinger worth 10388 calories
+Snap has a Chocolate Chip Coookies worth 9831 calories
+Snap has a Milky Way worth 11410 calories
+Snap is carrying 43789 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Zippity has a Ferrero Rocher worth 8080 calories
+Zippity has a Ritz Crackers worth 5559 calories
+Zippity has a Butterfinger worth 6190 calories
+Zippity has a Doritos worth 7327 calories
+Zippity has a Oatmeal Cream Pies worth 2608 calories
+Zippity has a Bugels worth 2918 calories
+Zippity is carrying 37432 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Bing has a Ferrero Rocher worth 5926 calories
+Bing has a Butterfinger worth 1931 calories
+Bing has a 100 Grand worth 1675 calories
+Bing has a Reese's Peanut Butter Cups worth 4608 calories
+Bing has a Cashews worth 3239 calories
+Bing has a UTZ Cheese Balls worth 5151 calories
+Bing has a Milky Way worth 1336 calories
+Bing has a Nutter Butter worth 2359 calories
+Bing is carrying 52034 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Elfo has a Ferrero Rocher worth 3983 calories
+Elfo has a Ritz Crackers worth 1449 calories
+Elfo has a Butterfinger worth 1728 calories
+Elfo has a 100 Grand worth 2801 calories
+Elfo has a Reese's Peanut Butter Cups worth 3978 calories
+Elfo has a Cashews worth 6492 calories
+Elfo has a Oatmeal Cream Pies worth 4399 calories
+Elfo has a Sun Chips worth 4035 calories
+Elfo has a Chocolate Chip Coookies worth 3940 calories
+Elfo has a Nutter Butter worth 6107 calories
+Elfo is carrying 51673 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Bing has a Ritz Crackers worth 6109 calories
+Bing has a Butterfinger worth 3149 calories
+Bing has a Cashews worth 6364 calories
+Bing has a Doritos worth 1806 calories
+Bing has a Oatmeal Cream Pies worth 2741 calories
+Bing has a Sun Chips worth 3023 calories
+Bing has a Milky Way worth 2625 calories
+Bing has a Bugels worth 2957 calories
+Bing is carrying 45660 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Link has a Ferrero Rocher worth 13619 calories
+Link has a Bugels worth 30480 calories
+Link is carrying 44099 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Aegnor has a Ritz Crackers worth 5909 calories
+Aegnor has a Butterfinger worth 3547 calories
+Aegnor has a Cashews worth 3501 calories
+Aegnor has a Doritos worth 2056 calories
+Aegnor has a Oatmeal Cream Pies worth 3975 calories
+Aegnor has a Chocolate Chip Coookies worth 6289 calories
+Aegnor has a Bugels worth 1519 calories
+Aegnor is carrying 41882 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Elfo has a Ritz Crackers worth 4415 calories
+Elfo has a Butterfinger worth 8311 calories
+Elfo has a 100 Grand worth 5987 calories
+Elfo has a Reese's Peanut Butter Cups worth 2243 calories
+Elfo has a Cashews worth 6066 calories
+Elfo has a UTZ Cheese Balls worth 7362 calories
+Elfo has a Bugels worth 3690 calories
+Elfo has a Nutter Butter worth 2415 calories
+Elfo is carrying 45575 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Elrond has a Butterfinger worth 23114 calories
+Elrond has a Cashews worth 16362 calories
+Elrond has a Oatmeal Cream Pies worth 11625 calories
+Elrond is carrying 51101 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Thranduil has a Ferrero Rocher worth 5670 calories
+Thranduil has a Butterfinger worth 5820 calories
+Thranduil has a Reese's Peanut Butter Cups worth 1968 calories
+Thranduil has a Cashews worth 6409 calories
+Thranduil has a Doritos worth 5574 calories
+Thranduil has a Oatmeal Cream Pies worth 7762 calories
+Thranduil has a UTZ Cheese Balls worth 5357 calories
+Thranduil has a Chocolate Chip Coookies worth 4106 calories
+Thranduil has a Nutter Butter worth 3111 calories
+Thranduil is carrying 47190 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Bing has a Ritz Crackers worth 17725 calories
+Bing has a 100 Grand worth 19352 calories
+Bing has a Oatmeal Cream Pies worth 1118 calories
+Bing has a Bugels worth 16940 calories
+Bing is carrying 55135 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Hoppity has a Ferrero Rocher worth 4771 calories
+Hoppity has a Ritz Crackers worth 4795 calories
+Hoppity has a Butterfinger worth 3486 calories
+Hoppity has a Reese's Peanut Butter Cups worth 2394 calories
+Hoppity has a Cashews worth 2698 calories
+Hoppity has a Doritos worth 3332 calories
+Hoppity has a Chocolate Chip Coookies worth 5086 calories
+Hoppity has a Bugels worth 4831 calories
+Hoppity has a Nutter Butter worth 4683 calories
+Hoppity is carrying 55657 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Hoppity has a Butterfinger worth 2149 calories
+Hoppity has a 100 Grand worth 6010 calories
+Hoppity has a Reese's Peanut Butter Cups worth 2904 calories
+Hoppity has a Cashews worth 4097 calories
+Hoppity has a Doritos worth 4199 calories
+Hoppity has a Sun Chips worth 3041 calories
+Hoppity has a UTZ Cheese Balls worth 4288 calories
+Hoppity has a Chocolate Chip Coookies worth 3989 calories
+Hoppity has a Milky Way worth 6029 calories
+Hoppity has a Bugels worth 1062 calories
+Hoppity has a Nutter Butter worth 3866 calories
+Hoppity is carrying 49192 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Snap has a 100 Grand worth 2253 calories
+Snap has a Cashews worth 1286 calories
+Snap has a Doritos worth 1523 calories
+Snap has a Sun Chips worth 3076 calories
+Snap has a UTZ Cheese Balls worth 5310 calories
+Snap has a Chocolate Chip Coookies worth 3141 calories
+Snap has a Milky Way worth 1686 calories
+Snap has a Bugels worth 3129 calories
+Snap has a Nutter Butter worth 5703 calories
+Snap is carrying 42576 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Pop has a Ferrero Rocher worth 7600 calories
+Pop has a Ritz Crackers worth 6009 calories
+Pop has a Doritos worth 6501 calories
+Pop has a Oatmeal Cream Pies worth 9430 calories
+Pop has a Sun Chips worth 3773 calories
+Pop has a UTZ Cheese Balls worth 3393 calories
+Pop is carrying 42565 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Aegnor has a Ferrero Rocher worth 5263 calories
+Aegnor has a Ritz Crackers worth 3697 calories
+Aegnor has a Cashews worth 4744 calories
+Aegnor has a UTZ Cheese Balls worth 3237 calories
+Aegnor has a Milky Way worth 7859 calories
+Aegnor has a Nutter Butter worth 4412 calories
+Aegnor is carrying 47831 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Elfo has a Ritz Crackers worth 14181 calories
+Elfo has a Cashews worth 13460 calories
+Elfo has a Doritos worth 6859 calories
+Elfo has a Milky Way worth 5061 calories
+Elfo is carrying 45938 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Winky has a Ferrero Rocher worth 7995 calories
+Winky has a 100 Grand worth 5257 calories
+Winky has a Doritos worth 3975 calories
+Winky has a Oatmeal Cream Pies worth 8072 calories
+Winky has a Milky Way worth 4375 calories
+Winky is carrying 56556 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Dobby has a Ritz Crackers worth 2034 calories
+Dobby has a 100 Grand worth 5267 calories
+Dobby has a Cashews worth 6657 calories
+Dobby has a Oatmeal Cream Pies worth 2805 calories
+Dobby has a Sun Chips worth 3317 calories
+Dobby has a Milky Way worth 2701 calories
+Dobby has a Bugels worth 3785 calories
+Dobby is carrying 48424 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Crackle has a Ferrero Rocher worth 3691 calories
+Crackle has a Butterfinger worth 1865 calories
+Crackle has a 100 Grand worth 2117 calories
+Crackle has a Cashews worth 1057 calories
+Crackle has a Sun Chips worth 5815 calories
+Crackle has a UTZ Cheese Balls worth 1400 calories
+Crackle has a Chocolate Chip Coookies worth 6713 calories
+Crackle has a Milky Way worth 2962 calories
+Crackle has a Nutter Butter worth 4045 calories
+Crackle is carrying 33059 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Gimbel has a Milky Way worth 18465 calories
+Gimbel is carrying 18465 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Zippity has a Ritz Crackers worth 4454 calories
+Zippity has a Butterfinger worth 5017 calories
+Zippity has a 100 Grand worth 1604 calories
+Zippity has a Doritos worth 1777 calories
+Zippity has a Sun Chips worth 1976 calories
+Zippity has a UTZ Cheese Balls worth 7230 calories
+Zippity has a Bugels worth 5884 calories
+Zippity has a Nutter Butter worth 1003 calories
+Zippity is carrying 48408 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Buddy has a Butterfinger worth 6631 calories
+Buddy has a Reese's Peanut Butter Cups worth 9455 calories
+Buddy has a Sun Chips worth 5094 calories
+Buddy has a UTZ Cheese Balls worth 6512 calories
+Buddy has a Milky Way worth 2624 calories
+Buddy has a Nutter Butter worth 7483 calories
+Buddy is carrying 51008 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Kreacher has a 100 Grand worth 12541 calories
+Kreacher has a Cashews worth 9911 calories
+Kreacher has a UTZ Cheese Balls worth 2569 calories
+Kreacher has a Bugels worth 8292 calories
+Kreacher is carrying 47564 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Kreacher has a Ferrero Rocher worth 4605 calories
+Kreacher has a Ritz Crackers worth 3076 calories
+Kreacher has a 100 Grand worth 5319 calories
+Kreacher has a Reese's Peanut Butter Cups worth 3124 calories
+Kreacher has a Cashews worth 2439 calories
+Kreacher has a Oatmeal Cream Pies worth 1718 calories
+Kreacher has a UTZ Cheese Balls worth 3158 calories
+Kreacher has a Chocolate Chip Coookies worth 2344 calories
+Kreacher has a Nutter Butter worth 2628 calories
+Kreacher is carrying 42387 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Bernard has a Ferrero Rocher worth 4693 calories
+Bernard has a Ritz Crackers worth 5311 calories
+Bernard has a Butterfinger worth 6428 calories
+Bernard has a 100 Grand worth 2452 calories
+Bernard has a Cashews worth 2024 calories
+Bernard has a Doritos worth 5002 calories
+Bernard has a UTZ Cheese Balls worth 4993 calories
+Bernard has a Bugels worth 4622 calories
+Bernard has a Nutter Butter worth 4199 calories
+Bernard is carrying 53527 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Thranduil has a Butterfinger worth 3679 calories
+Thranduil has a Reese's Peanut Butter Cups worth 3646 calories
+Thranduil has a Cashews worth 4131 calories
+Thranduil has a Doritos worth 3000 calories
+Thranduil has a Oatmeal Cream Pies worth 5484 calories
+Thranduil has a Sun Chips worth 5665 calories
+Thranduil has a UTZ Cheese Balls worth 4184 calories
+Thranduil has a Chocolate Chip Coookies worth 3623 calories
+Thranduil has a Milky Way worth 1048 calories
+Thranduil has a Bugels worth 1486 calories
+Thranduil has a Nutter Butter worth 2655 calories
+Thranduil is carrying 49538 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Kreacher has a Ferrero Rocher worth 14131 calories
+Kreacher has a Oatmeal Cream Pies worth 3553 calories
+Kreacher has a UTZ Cheese Balls worth 13678 calories
+Kreacher has a Chocolate Chip Coookies worth 1207 calories
+Kreacher is carrying 32569 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Link has a Butterfinger worth 1221 calories
+Link has a 100 Grand worth 2563 calories
+Link has a Reese's Peanut Butter Cups worth 3312 calories
+Link has a Cashews worth 6149 calories
+Link has a Doritos worth 2480 calories
+Link has a Oatmeal Cream Pies worth 5857 calories
+Link has a UTZ Cheese Balls worth 6369 calories
+Link has a Chocolate Chip Coookies worth 3380 calories
+Link has a Milky Way worth 1790 calories
+Link has a Nutter Butter worth 1359 calories
+Link is carrying 55584 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Link has a Ferrero Rocher worth 5235 calories
+Link has a Ritz Crackers worth 3495 calories
+Link has a Butterfinger worth 1225 calories
+Link has a Cashews worth 2152 calories
+Link has a Oatmeal Cream Pies worth 6309 calories
+Link has a Sun Chips worth 2039 calories
+Link has a Milky Way worth 1547 calories
+Link has a Bugels worth 2982 calories
+Link has a Nutter Butter worth 2200 calories
+Link is carrying 43157 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Hoppity has a Oatmeal Cream Pies worth 16640 calories
+Hoppity has a Sun Chips worth 9548 calories
+Hoppity has a UTZ Cheese Balls worth 20034 calories
+Hoppity is carrying 46222 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Pop has a Ferrero Rocher worth 1762 calories
+Pop has a Ritz Crackers worth 3966 calories
+Pop has a Butterfinger worth 3165 calories
+Pop has a 100 Grand worth 1652 calories
+Pop has a Cashews worth 1216 calories
+Pop has a Doritos worth 4491 calories
+Pop has a Oatmeal Cream Pies worth 4443 calories
+Pop has a Chocolate Chip Coookies worth 4525 calories
+Pop has a Milky Way worth 1942 calories
+Pop has a Bugels worth 4613 calories
+Pop has a Nutter Butter worth 1913 calories
+Pop is carrying 41909 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Celeborn has a Ferrero Rocher worth 2116 calories
+Celeborn has a Ritz Crackers worth 4865 calories
+Celeborn has a Reese's Peanut Butter Cups worth 3405 calories
+Celeborn has a Cashews worth 1625 calories
+Celeborn has a Oatmeal Cream Pies worth 7166 calories
+Celeborn has a UTZ Cheese Balls worth 1009 calories
+Celeborn has a Chocolate Chip Coookies worth 3953 calories
+Celeborn has a Bugels worth 6155 calories
+Celeborn is carrying 56694 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Legolas has a Ritz Crackers worth 11721 calories
+Legolas has a Oatmeal Cream Pies worth 15346 calories
+Legolas has a Nutter Butter worth 2328 calories
+Legolas is carrying 29395 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Zippity has a Ferrero Rocher worth 5366 calories
+Zippity has a Ritz Crackers worth 6198 calories
+Zippity has a Butterfinger worth 4735 calories
+Zippity has a 100 Grand worth 5577 calories
+Zippity has a Reese's Peanut Butter Cups worth 1262 calories
+Zippity has a Cashews worth 4929 calories
+Zippity has a Doritos worth 5911 calories
+Zippity has a Sun Chips worth 2519 calories
+Zippity has a UTZ Cheese Balls worth 5597 calories
+Zippity has a Chocolate Chip Coookies worth 3798 calories
+Zippity has a Milky Way worth 4281 calories
+Zippity has a Nutter Butter worth 1874 calories
+Zippity is carrying 58564 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Link has a Ferrero Rocher worth 9985 calories
+Link has a Ritz Crackers worth 1445 calories
+Link has a Butterfinger worth 3789 calories
+Link has a Doritos worth 9870 calories
+Link has a Sun Chips worth 9850 calories
+Link has a Chocolate Chip Coookies worth 8345 calories
+Link is carrying 51764 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Gimbel has a Ferrero Rocher worth 4662 calories
+Gimbel has a Ritz Crackers worth 4543 calories
+Gimbel has a Butterfinger worth 2592 calories
+Gimbel has a Reese's Peanut Butter Cups worth 3762 calories
+Gimbel has a Cashews worth 1464 calories
+Gimbel has a Doritos worth 1945 calories
+Gimbel has a Oatmeal Cream Pies worth 3641 calories
+Gimbel has a Sun Chips worth 1491 calories
+Gimbel has a UTZ Cheese Balls worth 1388 calories
+Gimbel has a Bugels worth 1206 calories
+Gimbel is carrying 51273 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Bernard has a Ritz Crackers worth 2210 calories
+Bernard has a Reese's Peanut Butter Cups worth 6931 calories
+Bernard has a Cashews worth 2178 calories
+Bernard has a Doritos worth 4502 calories
+Bernard has a Oatmeal Cream Pies worth 6682 calories
+Bernard has a Chocolate Chip Coookies worth 4406 calories
+Bernard has a Milky Way worth 1335 calories
+Bernard has a Nutter Butter worth 3789 calories
+Bernard is carrying 36538 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Elrond has a Ferrero Rocher worth 7182 calories
+Elrond has a Butterfinger worth 4708 calories
+Elrond has a Reese's Peanut Butter Cups worth 3292 calories
+Elrond has a Doritos worth 7684 calories
+Elrond has a Oatmeal Cream Pies worth 7096 calories
+Elrond has a Chocolate Chip Coookies worth 4935 calories
+Elrond has a Milky Way worth 3208 calories
+Elrond has a Nutter Butter worth 1181 calories
+Elrond is carrying 42218 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Link has a UTZ Cheese Balls worth 33589 calories
+Link is carrying 33589 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Legolas has a Doritos worth 12083 calories
+Legolas has a Oatmeal Cream Pies worth 8779 calories
+Legolas has a UTZ Cheese Balls worth 1623 calories
+Legolas has a Chocolate Chip Coookies worth 3334 calories
+Legolas is carrying 40411 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Thranduil has a Reese's Peanut Butter Cups worth 4799 calories
+Thranduil has a Cashews worth 1050 calories
+Thranduil has a Oatmeal Cream Pies worth 3329 calories
+Thranduil has a Sun Chips worth 5270 calories
+Thranduil has a UTZ Cheese Balls worth 3982 calories
+Thranduil has a Chocolate Chip Coookies worth 1705 calories
+Thranduil has a Milky Way worth 5903 calories
+Thranduil has a Bugels worth 4984 calories
+Thranduil has a Nutter Butter worth 2157 calories
+Thranduil is carrying 60144 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Elfo has a Butterfinger worth 11374 calories
+Elfo has a 100 Grand worth 6094 calories
+Elfo has a Reese's Peanut Butter Cups worth 10766 calories
+Elfo has a Chocolate Chip Coookies worth 6528 calories
+Elfo has a Milky Way worth 3567 calories
+Elfo has a Nutter Butter worth 6235 calories
+Elfo is carrying 49123 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Celeborn has a Ferrero Rocher worth 11776 calories
+Celeborn has a Ritz Crackers worth 5101 calories
+Celeborn has a 100 Grand worth 3073 calories
+Celeborn has a Reese's Peanut Butter Cups worth 6191 calories
+Celeborn has a Cashews worth 3796 calories
+Celeborn has a Nutter Butter worth 9277 calories
+Celeborn is carrying 43359 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Crackle has a Butterfinger worth 7420 calories
+Crackle has a Cashews worth 7909 calories
+Crackle has a Oatmeal Cream Pies worth 7796 calories
+Crackle has a Sun Chips worth 5377 calories
+Crackle has a UTZ Cheese Balls worth 7307 calories
+Crackle has a Milky Way worth 3060 calories
+Crackle has a Nutter Butter worth 6959 calories
+Crackle is carrying 57716 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Zippity has a Reese's Peanut Butter Cups worth 7330 calories
+Zippity is carrying 7330 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Link has a Reese's Peanut Butter Cups worth 35781 calories
+Link is carrying 35781 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Bing has a Cashews worth 21583 calories
+Bing has a UTZ Cheese Balls worth 21425 calories
+Bing has a Bugels worth 5018 calories
+Bing is carrying 48026 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Arwen has a Ferrero Rocher worth 1908 calories
+Arwen has a Butterfinger worth 4306 calories
+Arwen has a 100 Grand worth 3089 calories
+Arwen has a Oatmeal Cream Pies worth 2850 calories
+Arwen has a Milky Way worth 1928 calories
+Arwen has a Bugels worth 6016 calories
+Arwen has a Nutter Butter worth 1379 calories
+Arwen is carrying 38773 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Kreacher has a Reese's Peanut Butter Cups worth 11173 calories
+Kreacher has a Cashews worth 16714 calories
+Kreacher has a Doritos worth 15944 calories
+Kreacher has a Nutter Butter worth 5650 calories
+Kreacher is carrying 49481 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Link has a Cashews worth 12773 calories
+Link has a Doritos worth 9343 calories
+Link has a Oatmeal Cream Pies worth 14484 calories
+Link has a Sun Chips worth 16875 calories
+Link is carrying 53475 calories worth of food
+The Elf carrying the most calories is Snap with 62000
+Gimbel has a Ritz Crackers worth 7681 calories
+Gimbel has a Butterfinger worth 10942 calories
+Gimbel has a Reese's Peanut Butter Cups worth 9377 calories
+Gimbel has a Sun Chips worth 9747 calories
+Gimbel has a Chocolate Chip Coookies worth 10430 calories
+Gimbel has a Milky Way worth 3054 calories
+Gimbel is carrying 62877 calories worth of food
+The Elf carrying the most calories is Gimbel with 62877
+Celeborn has a Ferrero Rocher worth 5012 calories
+Celeborn has a Ritz Crackers worth 2441 calories
+Celeborn has a Doritos worth 6192 calories
+Celeborn has a Oatmeal Cream Pies worth 6064 calories
+Celeborn has a Sun Chips worth 5045 calories
+Celeborn has a Chocolate Chip Coookies worth 1306 calories
+Celeborn has a Bugels worth 1975 calories
+Celeborn is carrying 42163 calories worth of food
+The Elf carrying the most calories is Gimbel with 62877
+Thranduil has a Ritz Crackers worth 7328 calories
+Thranduil has a 100 Grand worth 6590 calories
+Thranduil has a Doritos worth 1780 calories
+Thranduil has a Oatmeal Cream Pies worth 2436 calories
+Thranduil has a Sun Chips worth 1909 calories
+Thranduil has a UTZ Cheese Balls worth 7391 calories
+Thranduil has a Milky Way worth 7606 calories
+Thranduil has a Nutter Butter worth 1344 calories
+Thranduil is carrying 55292 calories worth of food
+The Elf carrying the most calories is Gimbel with 62877
+Buddy has a Ritz Crackers worth 2073 calories
+Buddy has a Reese's Peanut Butter Cups worth 1281 calories
+Buddy has a Cashews worth 6079 calories
+Buddy has a Oatmeal Cream Pies worth 2820 calories
+Buddy has a UTZ Cheese Balls worth 2924 calories
+Buddy has a Chocolate Chip Coookies worth 5501 calories
+Buddy has a Bugels worth 1053 calories
+Buddy is carrying 44108 calories worth of food
+The Elf carrying the most calories is Gimbel with 62877
+Hoppity has a Ritz Crackers worth 1623 calories
+Hoppity has a Butterfinger worth 3669 calories
+Hoppity has a 100 Grand worth 4752 calories
+Hoppity has a Reese's Peanut Butter Cups worth 6380 calories
+Hoppity has a Doritos worth 1924 calories
+Hoppity has a Oatmeal Cream Pies worth 2406 calories
+Hoppity has a Sun Chips worth 2595 calories
+Hoppity has a UTZ Cheese Balls worth 3841 calories
+Hoppity is carrying 48665 calories worth of food
+The Elf carrying the most calories is Gimbel with 62877
+Arwen has a Ferrero Rocher worth 3165 calories
+Arwen has a 100 Grand worth 4851 calories
+Arwen has a Reese's Peanut Butter Cups worth 2752 calories
+Arwen has a Cashews worth 4566 calories
+Arwen has a Doritos worth 1988 calories
+Arwen has a Oatmeal Cream Pies worth 5783 calories
+Arwen has a Chocolate Chip Coookies worth 4663 calories
+Arwen has a Milky Way worth 3674 calories
+Arwen has a Bugels worth 4373 calories
+Arwen is carrying 59719 calories worth of food
+The Elf carrying the most calories is Gimbel with 62877
+Gimbel has a Ritz Crackers worth 9600 calories
+Gimbel has a Butterfinger worth 10301 calories
+Gimbel has a 100 Grand worth 4241 calories
+Gimbel has a Reese's Peanut Butter Cups worth 2592 calories
+Gimbel has a Cashews worth 7728 calories
+Gimbel has a Sun Chips worth 3012 calories
+Gimbel has a UTZ Cheese Balls worth 7995 calories
+Gimbel has a Milky Way worth 2005 calories
+Gimbel is carrying 47474 calories worth of food
+The Elf carrying the most calories is Gimbel with 62877
+Aegnor has a Ritz Crackers worth 1419 calories
+Aegnor has a Butterfinger worth 2548 calories
+Aegnor has a 100 Grand worth 5779 calories
+Aegnor has a Doritos worth 5901 calories
+Aegnor has a Oatmeal Cream Pies worth 3590 calories
+Aegnor has a UTZ Cheese Balls worth 4068 calories
+Aegnor has a Milky Way worth 1702 calories
+Aegnor has a Bugels worth 4519 calories
+Aegnor has a Nutter Butter worth 6088 calories
+Aegnor is carrying 53513 calories worth of food
+The Elf carrying the most calories is Gimbel with 62877
+Link has a Milky Way worth 65317 calories
+Link is carrying 65317 calories worth of food
+The Elf carrying the most calories is Link with 65317
+Hoppity has a Ferrero Rocher worth 8461 calories
+Hoppity has a Doritos worth 1214 calories
+Hoppity has a Oatmeal Cream Pies worth 7159 calories
+Hoppity has a UTZ Cheese Balls worth 9003 calories
+Hoppity has a Chocolate Chip Coookies worth 2996 calories
+Hoppity has a Milky Way worth 3834 calories
+Hoppity has a Bugels worth 4907 calories
+Hoppity is carrying 46136 calories worth of food
+The Elf carrying the most calories is Link with 65317
+Legolas has a Reese's Peanut Butter Cups worth 49655 calories
+Legolas is carrying 49655 calories worth of food
+The Elf carrying the most calories is Link with 65317
+Aegnor has a Ferrero Rocher worth 1627 calories
+Aegnor has a Butterfinger worth 3328 calories
+Aegnor has a Reese's Peanut Butter Cups worth 3477 calories
+Aegnor has a Cashews worth 5851 calories
+Aegnor has a Doritos worth 3552 calories
+Aegnor has a Oatmeal Cream Pies worth 3769 calories
+Aegnor has a Chocolate Chip Coookies worth 4004 calories
+Aegnor has a Milky Way worth 1852 calories
+Aegnor has a Bugels worth 5048 calories
+Aegnor has a Nutter Butter worth 1024 calories
+Aegnor is carrying 52719 calories worth of food
+The Elf carrying the most calories is Link with 65317
+Winky has a Ferrero Rocher worth 3770 calories
+Winky has a 100 Grand worth 7268 calories
+Winky has a Reese's Peanut Butter Cups worth 2397 calories
+Winky has a Oatmeal Cream Pies worth 13904 calories
+Winky has a Sun Chips worth 10475 calories
+Winky has a Chocolate Chip Coookies worth 7402 calories
+Winky is carrying 45216 calories worth of food
+The Elf carrying the most calories is Link with 65317
+Pop has a Ferrero Rocher worth 8476 calories
+Pop has a Doritos worth 3808 calories
+Pop has a Sun Chips worth 3857 calories
+Pop has a UTZ Cheese Balls worth 4641 calories
+Pop has a Bugels worth 1462 calories
+Pop is carrying 38478 calories worth of food
+The Elf carrying the most calories is Link with 65317
+Hermey has a Butterfinger worth 6780 calories
+Hermey has a Reese's Peanut Butter Cups worth 7117 calories
+Hermey has a Cashews worth 7491 calories
+Hermey has a Oatmeal Cream Pies worth 5330 calories
+Hermey has a Sun Chips worth 3805 calories
+Hermey has a Milky Way worth 7085 calories
+Hermey has a Nutter Butter worth 6605 calories
+Hermey is carrying 58148 calories worth of food
+The Elf carrying the most calories is Link with 65317
+Kreacher has a Ritz Crackers worth 9443 calories
+Kreacher has a Butterfinger worth 3985 calories
+Kreacher has a Reese's Peanut Butter Cups worth 7670 calories
+Kreacher has a Cashews worth 4438 calories
+Kreacher has a Doritos worth 3627 calories
+Kreacher has a Sun Chips worth 5998 calories
+Kreacher has a Chocolate Chip Coookies worth 9057 calories
+Kreacher has a Milky Way worth 1504 calories
+Kreacher is carrying 50044 calories worth of food
+The Elf carrying the most calories is Link with 65317
+Bing has a Butterfinger worth 10965 calories
+Bing has a 100 Grand worth 13151 calories
+Bing has a Bugels worth 11166 calories
+Bing has a Nutter Butter worth 13415 calories
+Bing is carrying 48697 calories worth of food
+The Elf carrying the most calories is Link with 65317
+Snap has a Ferrero Rocher worth 7158 calories
+Snap has a Ritz Crackers worth 9153 calories
+Snap has a Sun Chips worth 5101 calories
+Snap has a Chocolate Chip Coookies worth 8571 calories
+Snap has a Bugels worth 5862 calories
+Snap is carrying 53096 calories worth of food
+The Elf carrying the most calories is Link with 65317
+Thranduil has a Ferrero Rocher worth 4456 calories
+Thranduil has a 100 Grand worth 3354 calories
+Thranduil has a Reese's Peanut Butter Cups worth 8081 calories
+Thranduil has a Oatmeal Cream Pies worth 6253 calories
+Thranduil has a Sun Chips worth 2655 calories
+Thranduil has a UTZ Cheese Balls worth 4659 calories
+Thranduil has a Bugels worth 5430 calories
+Thranduil is carrying 46666 calories worth of food
+The Elf carrying the most calories is Link with 65317
+Bing has a Ferrero Rocher worth 2949 calories
+Bing has a Reese's Peanut Butter Cups worth 8104 calories
+Bing has a Cashews worth 1596 calories
+Bing has a Oatmeal Cream Pies worth 3052 calories
+Bing has a Sun Chips worth 7083 calories
+Bing has a Chocolate Chip Coookies worth 1621 calories
+Bing has a Bugels worth 8749 calories
+Bing is carrying 41142 calories worth of food
+The Elf carrying the most calories is Link with 65317
+Bing has a Cashews worth 12111 calories
+Bing has a Doritos worth 3706 calories
+Bing has a Oatmeal Cream Pies worth 11140 calories
+Bing has a Bugels worth 13548 calories
+Bing is carrying 43156 calories worth of food
+The Elf carrying the most calories is Link with 65317
+Gimbel has a Cashews worth 22359 calories
+Gimbel has a Nutter Butter worth 12202 calories
+Gimbel is carrying 44729 calories worth of food
+The Elf carrying the most calories is Link with 65317
+Elrond has a Sun Chips worth 6858 calories
+Elrond has a Milky Way worth 5062 calories
+Elrond is carrying 11920 calories worth of food
+The Elf carrying the most calories is Link with 65317
+Gimbel has a Reese's Peanut Butter Cups worth 10455 calories
+Gimbel has a Sun Chips worth 13856 calories
+Gimbel is carrying 24311 calories worth of food
+The Elf carrying the most calories is Link with 65317
+Winky has a 100 Grand worth 19040 calories
+Winky has a Nutter Butter worth 12441 calories
+Winky is carrying 31481 calories worth of food
+The Elf carrying the most calories is Link with 65317
+Bing has a Ritz Crackers worth 6509 calories
+Bing has a Cashews worth 4995 calories
+Bing has a Sun Chips worth 6760 calories
+Bing has a Chocolate Chip Coookies worth 6274 calories
+Bing is carrying 34129 calories worth of food
+The Elf carrying the most calories is Link with 65317
+Legolas has a Ritz Crackers worth 6222 calories
+Legolas has a Reese's Peanut Butter Cups worth 6463 calories
+Legolas has a Cashews worth 4437 calories
+Legolas has a Oatmeal Cream Pies worth 8503 calories
+Legolas has a Sun Chips worth 1391 calories
+Legolas has a UTZ Cheese Balls worth 4223 calories
+Legolas has a Chocolate Chip Coookies worth 2652 calories
+Legolas is carrying 43528 calories worth of food
+The Elf carrying the most calories is Link with 65317
+Buddy has a Ferrero Rocher worth 6935 calories
+Buddy has a 100 Grand worth 2747 calories
+Buddy has a Cashews worth 4605 calories
+Buddy has a Doritos worth 2076 calories
+Buddy has a Oatmeal Cream Pies worth 6812 calories
+Buddy has a Sun Chips worth 2038 calories
+Buddy has a Chocolate Chip Coookies worth 3527 calories
+Buddy is carrying 48327 calories worth of food
+The Elf carrying the most calories is Link with 65317
+Gimbel has a Ferrero Rocher worth 3045 calories
+Gimbel has a Butterfinger worth 5210 calories
+Gimbel has a 100 Grand worth 1100 calories
+Gimbel has a Reese's Peanut Butter Cups worth 5882 calories
+Gimbel has a Doritos worth 5537 calories
+Gimbel has a Oatmeal Cream Pies worth 1503 calories
+Gimbel has a Sun Chips worth 1072 calories
+Gimbel has a UTZ Cheese Balls worth 1108 calories
+Gimbel has a Chocolate Chip Coookies worth 2296 calories
+Gimbel has a Milky Way worth 1534 calories
+Gimbel is carrying 51236 calories worth of food
+The Elf carrying the most calories is Link with 65317
+Link has a Cashews worth 2276 calories
+Link has a UTZ Cheese Balls worth 5684 calories
+Link has a Milky Way worth 10661 calories
+Link is carrying 26744 calories worth of food
+The Elf carrying the most calories is Link with 65317
+Snap has a Reese's Peanut Butter Cups worth 2580 calories
+Snap has a Doritos worth 14356 calories
+Snap has a Oatmeal Cream Pies worth 8724 calories
+Snap has a Milky Way worth 9007 calories
+Snap is carrying 44859 calories worth of food
+The Elf carrying the most calories is Link with 65317
+Snap has a Ferrero Rocher worth 1555 calories
+Snap has a Ritz Crackers worth 4399 calories
+Snap has a Butterfinger worth 2516 calories
+Snap has a 100 Grand worth 4185 calories
+Snap has a Cashews worth 4792 calories
+Snap has a Doritos worth 5069 calories
+Snap has a UTZ Cheese Balls worth 4411 calories
+Snap has a Milky Way worth 4779 calories
+Snap has a Nutter Butter worth 4738 calories
+Snap is carrying 51783 calories worth of food
+The Elf carrying the most calories is Link with 65317
+Hoppity has a Nutter Butter worth 17014 calories
+Hoppity is carrying 17014 calories worth of food
+The Elf carrying the most calories is Link with 65317
+Thranduil has a 100 Grand worth 4835 calories
+Thranduil has a Chocolate Chip Coookies worth 32213 calories
+Thranduil is carrying 37048 calories worth of food
+The Elf carrying the most calories is Link with 65317
+Crackle has a Oatmeal Cream Pies worth 9759 calories
+Crackle has a Bugels worth 16225 calories
+Crackle is carrying 25984 calories worth of food
+The Elf carrying the most calories is Link with 65317
+Snap has a Cashews worth 11836 calories
+Snap has a Doritos worth 13597 calories
+Snap has a Sun Chips worth 5614 calories
+Snap has a Bugels worth 12116 calories
+Snap has a Nutter Butter worth 12275 calories
+Snap is carrying 69206 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Gimbel has a Chocolate Chip Coookies worth 16706 calories
+Gimbel has a Bugels worth 5359 calories
+Gimbel has a Nutter Butter worth 3223 calories
+Gimbel is carrying 39047 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Snap has a Ritz Crackers worth 4689 calories
+Snap has a Butterfinger worth 4021 calories
+Snap has a 100 Grand worth 5529 calories
+Snap has a Reese's Peanut Butter Cups worth 4545 calories
+Snap has a Oatmeal Cream Pies worth 6476 calories
+Snap has a UTZ Cheese Balls worth 8735 calories
+Snap has a Bugels worth 2684 calories
+Snap is carrying 48754 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Kreacher has a Butterfinger worth 7538 calories
+Kreacher is carrying 7538 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Arwen has a Ferrero Rocher worth 8655 calories
+Arwen has a Reese's Peanut Butter Cups worth 7660 calories
+Arwen has a Cashews worth 2382 calories
+Arwen has a Oatmeal Cream Pies worth 6276 calories
+Arwen has a Milky Way worth 12725 calories
+Arwen has a Nutter Butter worth 11825 calories
+Arwen is carrying 49523 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Link has a Ferrero Rocher worth 9393 calories
+Link has a Oatmeal Cream Pies worth 2680 calories
+Link has a Chocolate Chip Coookies worth 9534 calories
+Link has a Bugels worth 8819 calories
+Link is carrying 54306 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Buddy has a Ritz Crackers worth 3414 calories
+Buddy has a Butterfinger worth 6190 calories
+Buddy has a Oatmeal Cream Pies worth 3939 calories
+Buddy has a Chocolate Chip Coookies worth 4484 calories
+Buddy has a Milky Way worth 12015 calories
+Buddy is carrying 43909 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Buddy has a Ferrero Rocher worth 4294 calories
+Buddy has a 100 Grand worth 1944 calories
+Buddy has a Reese's Peanut Butter Cups worth 2677 calories
+Buddy has a Cashews worth 4460 calories
+Buddy has a Doritos worth 5549 calories
+Buddy has a Oatmeal Cream Pies worth 5161 calories
+Buddy has a Sun Chips worth 2058 calories
+Buddy has a UTZ Cheese Balls worth 5410 calories
+Buddy has a Bugels worth 3018 calories
+Buddy has a Nutter Butter worth 3387 calories
+Buddy is carrying 56602 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Elrond has a Ferrero Rocher worth 1757 calories
+Elrond has a Reese's Peanut Butter Cups worth 2694 calories
+Elrond has a Oatmeal Cream Pies worth 2953 calories
+Elrond has a UTZ Cheese Balls worth 6956 calories
+Elrond has a Chocolate Chip Coookies worth 5567 calories
+Elrond has a Bugels worth 1927 calories
+Elrond has a Nutter Butter worth 1493 calories
+Elrond is carrying 37740 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Aegnor has a Ferrero Rocher worth 11353 calories
+Aegnor has a 100 Grand worth 4728 calories
+Aegnor has a Oatmeal Cream Pies worth 13835 calories
+Aegnor has a Sun Chips worth 9606 calories
+Aegnor has a Bugels worth 2412 calories
+Aegnor has a Nutter Butter worth 2517 calories
+Aegnor is carrying 44451 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Gimbel has a Ferrero Rocher worth 7032 calories
+Gimbel has a Ritz Crackers worth 3050 calories
+Gimbel has a Doritos worth 3007 calories
+Gimbel has a UTZ Cheese Balls worth 1771 calories
+Gimbel has a Milky Way worth 2882 calories
+Gimbel has a Bugels worth 8658 calories
+Gimbel has a Nutter Butter worth 10355 calories
+Gimbel is carrying 43909 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Kreacher has a Ferrero Rocher worth 6497 calories
+Kreacher has a Ritz Crackers worth 6731 calories
+Kreacher has a Butterfinger worth 2666 calories
+Kreacher has a Cashews worth 4580 calories
+Kreacher has a Oatmeal Cream Pies worth 2146 calories
+Kreacher has a Sun Chips worth 4094 calories
+Kreacher has a Milky Way worth 4228 calories
+Kreacher has a Bugels worth 6651 calories
+Kreacher has a Nutter Butter worth 3836 calories
+Kreacher is carrying 56099 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Celeborn has a Doritos worth 49889 calories
+Celeborn is carrying 49889 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Hermey has a Butterfinger worth 1694 calories
+Hermey has a Reese's Peanut Butter Cups worth 15682 calories
+Hermey is carrying 39202 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Kreacher has a 100 Grand worth 14655 calories
+Kreacher has a Reese's Peanut Butter Cups worth 11100 calories
+Kreacher has a Oatmeal Cream Pies worth 4596 calories
+Kreacher has a UTZ Cheese Balls worth 13224 calories
+Kreacher is carrying 47644 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Dobby has a Ritz Crackers worth 5067 calories
+Dobby has a Butterfinger worth 2759 calories
+Dobby has a Reese's Peanut Butter Cups worth 3888 calories
+Dobby has a Cashews worth 6077 calories
+Dobby has a Sun Chips worth 6909 calories
+Dobby has a UTZ Cheese Balls worth 4609 calories
+Dobby has a Chocolate Chip Coookies worth 5199 calories
+Dobby has a Nutter Butter worth 1215 calories
+Dobby is carrying 55110 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Snap has a Butterfinger worth 2395 calories
+Snap has a 100 Grand worth 1178 calories
+Snap has a Cashews worth 1947 calories
+Snap has a Doritos worth 6155 calories
+Snap has a UTZ Cheese Balls worth 2308 calories
+Snap has a Bugels worth 7363 calories
+Snap has a Nutter Butter worth 1998 calories
+Snap is carrying 31156 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Gimbel has a Butterfinger worth 1122 calories
+Gimbel has a 100 Grand worth 4774 calories
+Gimbel has a Cashews worth 3911 calories
+Gimbel has a Doritos worth 3793 calories
+Gimbel has a Sun Chips worth 3637 calories
+Gimbel has a Chocolate Chip Coookies worth 6123 calories
+Gimbel has a Bugels worth 1397 calories
+Gimbel is carrying 53741 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Elrond has a Reese's Peanut Butter Cups worth 3131 calories
+Elrond has a Oatmeal Cream Pies worth 4280 calories
+Elrond is carrying 7411 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Elfo has a Ferrero Rocher worth 7926 calories
+Elfo has a 100 Grand worth 8575 calories
+Elfo has a Doritos worth 11051 calories
+Elfo has a UTZ Cheese Balls worth 2074 calories
+Elfo is carrying 40593 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Bernard has a Ferrero Rocher worth 4648 calories
+Bernard has a Reese's Peanut Butter Cups worth 5870 calories
+Bernard has a Oatmeal Cream Pies worth 5181 calories
+Bernard has a Sun Chips worth 10554 calories
+Bernard has a Nutter Butter worth 9549 calories
+Bernard is carrying 41064 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Aegnor has a Reese's Peanut Butter Cups worth 6732 calories
+Aegnor has a Doritos worth 1787 calories
+Aegnor has a Sun Chips worth 11668 calories
+Aegnor has a UTZ Cheese Balls worth 1701 calories
+Aegnor has a Nutter Butter worth 9886 calories
+Aegnor is carrying 45901 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Pop has a 100 Grand worth 4499 calories
+Pop has a Cashews worth 9374 calories
+Pop has a Sun Chips worth 10024 calories
+Pop has a Chocolate Chip Coookies worth 19405 calories
+Pop is carrying 43302 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Hermey has a Ferrero Rocher worth 1625 calories
+Hermey has a Ritz Crackers worth 2239 calories
+Hermey has a Cashews worth 6576 calories
+Hermey has a Oatmeal Cream Pies worth 6107 calories
+Hermey has a Sun Chips worth 3214 calories
+Hermey has a UTZ Cheese Balls worth 1682 calories
+Hermey has a Chocolate Chip Coookies worth 2448 calories
+Hermey has a Milky Way worth 5008 calories
+Hermey has a Bugels worth 1386 calories
+Hermey is carrying 42179 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Kreacher has a Ferrero Rocher worth 7547 calories
+Kreacher has a 100 Grand worth 5508 calories
+Kreacher has a Oatmeal Cream Pies worth 1308 calories
+Kreacher has a UTZ Cheese Balls worth 2199 calories
+Kreacher has a Bugels worth 2520 calories
+Kreacher has a Nutter Butter worth 2123 calories
+Kreacher is carrying 33674 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Hoppity has a Butterfinger worth 1000 calories
+Hoppity has a Cashews worth 6457 calories
+Hoppity has a Doritos worth 7995 calories
+Hoppity has a Sun Chips worth 1310 calories
+Hoppity has a Chocolate Chip Coookies worth 7409 calories
+Hoppity has a Bugels worth 3589 calories
+Hoppity has a Nutter Butter worth 6470 calories
+Hoppity is carrying 43569 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Link has a Ferrero Rocher worth 4725 calories
+Link has a Ritz Crackers worth 1330 calories
+Link has a Reese's Peanut Butter Cups worth 7616 calories
+Link has a Cashews worth 8265 calories
+Link has a Doritos worth 6599 calories
+Link has a Oatmeal Cream Pies worth 5315 calories
+Link has a Milky Way worth 3362 calories
+Link has a Bugels worth 7888 calories
+Link is carrying 56290 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Zippity has a Reese's Peanut Butter Cups worth 11728 calories
+Zippity has a UTZ Cheese Balls worth 2872 calories
+Zippity has a Milky Way worth 25525 calories
+Zippity is carrying 40125 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Arwen has a 100 Grand worth 9572 calories
+Arwen has a Reese's Peanut Butter Cups worth 2896 calories
+Arwen has a Milky Way worth 15044 calories
+Arwen has a Bugels worth 10589 calories
+Arwen has a Nutter Butter worth 4530 calories
+Arwen is carrying 42631 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Bing has a Ferrero Rocher worth 2979 calories
+Bing has a Ritz Crackers worth 3160 calories
+Bing has a Butterfinger worth 12711 calories
+Bing has a Reese's Peanut Butter Cups worth 6439 calories
+Bing has a Oatmeal Cream Pies worth 1455 calories
+Bing has a Chocolate Chip Coookies worth 10037 calories
+Bing is carrying 36781 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Hermey has a Ferrero Rocher worth 4457 calories
+Hermey has a Ritz Crackers worth 2176 calories
+Hermey has a Butterfinger worth 5657 calories
+Hermey has a Cashews worth 2310 calories
+Hermey has a Doritos worth 3449 calories
+Hermey has a Oatmeal Cream Pies worth 1304 calories
+Hermey has a Milky Way worth 1883 calories
+Hermey has a Bugels worth 4209 calories
+Hermey has a Nutter Butter worth 1759 calories
+Hermey is carrying 52220 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Thranduil has a Ferrero Rocher worth 8569 calories
+Thranduil has a Reese's Peanut Butter Cups worth 8463 calories
+Thranduil has a Cashews worth 5517 calories
+Thranduil has a Doritos worth 6798 calories
+Thranduil has a Bugels worth 4322 calories
+Thranduil is carrying 56421 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Bernard has a Ferrero Rocher worth 6759 calories
+Bernard has a Cashews worth 5395 calories
+Bernard has a Doritos worth 6825 calories
+Bernard has a Oatmeal Cream Pies worth 6158 calories
+Bernard has a Sun Chips worth 4871 calories
+Bernard has a Chocolate Chip Coookies worth 6835 calories
+Bernard has a Bugels worth 1074 calories
+Bernard has a Nutter Butter worth 4374 calories
+Bernard is carrying 62204 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Pop has a Ferrero Rocher worth 2869 calories
+Pop has a Butterfinger worth 3950 calories
+Pop has a 100 Grand worth 4736 calories
+Pop has a Reese's Peanut Butter Cups worth 3742 calories
+Pop has a Doritos worth 4116 calories
+Pop has a UTZ Cheese Balls worth 6019 calories
+Pop has a Bugels worth 2045 calories
+Pop is carrying 54523 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Dobby has a Ritz Crackers worth 6446 calories
+Dobby has a 100 Grand worth 8156 calories
+Dobby has a Reese's Peanut Butter Cups worth 1549 calories
+Dobby has a Sun Chips worth 1739 calories
+Dobby has a Nutter Butter worth 2676 calories
+Dobby is carrying 29536 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Thranduil has a Ritz Crackers worth 8097 calories
+Thranduil has a Reese's Peanut Butter Cups worth 2168 calories
+Thranduil has a Cashews worth 3409 calories
+Thranduil has a Doritos worth 4574 calories
+Thranduil has a Chocolate Chip Coookies worth 3966 calories
+Thranduil has a Milky Way worth 6164 calories
+Thranduil has a Bugels worth 7025 calories
+Thranduil is carrying 46586 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Hermey has a Ritz Crackers worth 6964 calories
+Hermey has a 100 Grand worth 7718 calories
+Hermey has a Reese's Peanut Butter Cups worth 5035 calories
+Hermey has a Oatmeal Cream Pies worth 1594 calories
+Hermey has a Milky Way worth 7703 calories
+Hermey has a Bugels worth 7211 calories
+Hermey has a Nutter Butter worth 1107 calories
+Hermey is carrying 54203 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Celeborn has a Bugels worth 51004 calories
+Celeborn is carrying 51004 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Legolas has a Ritz Crackers worth 1158 calories
+Legolas has a Reese's Peanut Butter Cups worth 5527 calories
+Legolas has a Cashews worth 4918 calories
+Legolas has a Doritos worth 9254 calories
+Legolas has a Oatmeal Cream Pies worth 1074 calories
+Legolas has a UTZ Cheese Balls worth 7834 calories
+Legolas has a Bugels worth 1324 calories
+Legolas is carrying 37706 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Elrond has a Ferrero Rocher worth 7470 calories
+Elrond has a Ritz Crackers worth 1410 calories
+Elrond has a Butterfinger worth 3281 calories
+Elrond has a Reese's Peanut Butter Cups worth 7458 calories
+Elrond has a Doritos worth 1893 calories
+Elrond has a Oatmeal Cream Pies worth 6741 calories
+Elrond has a UTZ Cheese Balls worth 1711 calories
+Elrond has a Chocolate Chip Coookies worth 4422 calories
+Elrond is carrying 51947 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Thranduil has a Ritz Crackers worth 9371 calories
+Thranduil has a 100 Grand worth 12935 calories
+Thranduil has a Milky Way worth 15492 calories
+Thranduil has a Bugels worth 19708 calories
+Thranduil is carrying 57506 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Pop has a Butterfinger worth 6625 calories
+Pop has a Cashews worth 4820 calories
+Pop has a Doritos worth 8201 calories
+Pop has a Sun Chips worth 2674 calories
+Pop has a Chocolate Chip Coookies worth 7092 calories
+Pop has a Nutter Butter worth 8633 calories
+Pop is carrying 57443 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Gimbel has a 100 Grand worth 49048 calories
+Gimbel is carrying 49048 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Crackle has a Ritz Crackers worth 2170 calories
+Crackle has a Butterfinger worth 2443 calories
+Crackle has a 100 Grand worth 3106 calories
+Crackle has a Reese's Peanut Butter Cups worth 4485 calories
+Crackle has a Cashews worth 1799 calories
+Crackle has a Oatmeal Cream Pies worth 3340 calories
+Crackle has a Nutter Butter worth 6858 calories
+Crackle is carrying 40816 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Elfo has a Ferrero Rocher worth 6122 calories
+Elfo has a Ritz Crackers worth 9496 calories
+Elfo has a Sun Chips worth 5207 calories
+Elfo has a UTZ Cheese Balls worth 2383 calories
+Elfo has a Nutter Butter worth 7021 calories
+Elfo is carrying 55371 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Dobby has a Doritos worth 14001 calories
+Dobby has a Oatmeal Cream Pies worth 26749 calories
+Dobby is carrying 40750 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Elrond has a Ferrero Rocher worth 15324 calories
+Elrond has a Ritz Crackers worth 23968 calories
+Elrond has a Butterfinger worth 19677 calories
+Elrond is carrying 58969 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Elfo has a Butterfinger worth 8340 calories
+Elfo has a Reese's Peanut Butter Cups worth 7382 calories
+Elfo has a Oatmeal Cream Pies worth 4423 calories
+Elfo has a Sun Chips worth 5335 calories
+Elfo has a UTZ Cheese Balls worth 6785 calories
+Elfo has a Milky Way worth 2824 calories
+Elfo has a Bugels worth 1838 calories
+Elfo has a Nutter Butter worth 7044 calories
+Elfo is carrying 58154 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Celeborn has a Ritz Crackers worth 8552 calories
+Celeborn has a 100 Grand worth 2597 calories
+Celeborn has a Reese's Peanut Butter Cups worth 3107 calories
+Celeborn has a Oatmeal Cream Pies worth 2619 calories
+Celeborn has a UTZ Cheese Balls worth 3771 calories
+Celeborn is carrying 39113 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Dobby has a Ferrero Rocher worth 2169 calories
+Dobby has a Ritz Crackers worth 1454 calories
+Dobby has a Butterfinger worth 5529 calories
+Dobby has a Reese's Peanut Butter Cups worth 1425 calories
+Dobby has a Cashews worth 1621 calories
+Dobby has a Oatmeal Cream Pies worth 6833 calories
+Dobby has a Sun Chips worth 6758 calories
+Dobby has a Bugels worth 3505 calories
+Dobby is carrying 54880 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Aegnor has a Ferrero Rocher worth 4342 calories
+Aegnor has a Ritz Crackers worth 3598 calories
+Aegnor has a Butterfinger worth 5814 calories
+Aegnor has a 100 Grand worth 1930 calories
+Aegnor has a Reese's Peanut Butter Cups worth 4967 calories
+Aegnor has a Cashews worth 2599 calories
+Aegnor has a Doritos worth 3464 calories
+Aegnor has a Sun Chips worth 2408 calories
+Aegnor has a UTZ Cheese Balls worth 1792 calories
+Aegnor has a Chocolate Chip Coookies worth 3389 calories
+Aegnor has a Milky Way worth 6068 calories
+Aegnor has a Bugels worth 2838 calories
+Aegnor is carrying 50190 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Bing has a Butterfinger worth 2538 calories
+Bing has a Reese's Peanut Butter Cups worth 5442 calories
+Bing has a Doritos worth 5036 calories
+Bing has a Oatmeal Cream Pies worth 4674 calories
+Bing has a Sun Chips worth 3083 calories
+Bing has a UTZ Cheese Balls worth 4675 calories
+Bing has a Chocolate Chip Coookies worth 2672 calories
+Bing has a Milky Way worth 3774 calories
+Bing has a Bugels worth 1918 calories
+Bing has a Nutter Butter worth 4055 calories
+Bing is carrying 50229 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Crackle has a Butterfinger worth 1220 calories
+Crackle has a Cashews worth 2098 calories
+Crackle has a Bugels worth 5315 calories
+Crackle is carrying 24274 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Pop has a Reese's Peanut Butter Cups worth 15560 calories
+Pop has a Bugels worth 15919 calories
+Pop is carrying 48195 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Thranduil has a 100 Grand worth 9200 calories
+Thranduil has a Doritos worth 21911 calories
+Thranduil has a Sun Chips worth 10100 calories
+Thranduil is carrying 41211 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Buddy has a Milky Way worth 2645 calories
+Buddy has a Nutter Butter worth 12965 calories
+Buddy is carrying 15610 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Legolas has a Ritz Crackers worth 8517 calories
+Legolas has a 100 Grand worth 1089 calories
+Legolas has a Cashews worth 6827 calories
+Legolas has a Doritos worth 8655 calories
+Legolas has a Sun Chips worth 7883 calories
+Legolas has a UTZ Cheese Balls worth 4816 calories
+Legolas has a Chocolate Chip Coookies worth 6688 calories
+Legolas has a Milky Way worth 1743 calories
+Legolas is carrying 55797 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Hermey has a 100 Grand worth 14801 calories
+Hermey is carrying 14801 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Winky has a 100 Grand worth 7826 calories
+Winky has a Reese's Peanut Butter Cups worth 6082 calories
+Winky has a Cashews worth 7190 calories
+Winky has a Oatmeal Cream Pies worth 6382 calories
+Winky has a Sun Chips worth 9072 calories
+Winky has a UTZ Cheese Balls worth 6773 calories
+Winky has a Chocolate Chip Coookies worth 5873 calories
+Winky has a Milky Way worth 5962 calories
+Winky has a Bugels worth 3114 calories
+Winky is carrying 58274 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Thranduil has a Ritz Crackers worth 7973 calories
+Thranduil has a Oatmeal Cream Pies worth 1467 calories
+Thranduil has a UTZ Cheese Balls worth 8340 calories
+Thranduil has a Chocolate Chip Coookies worth 2886 calories
+Thranduil has a Milky Way worth 5270 calories
+Thranduil has a Bugels worth 8082 calories
+Thranduil has a Nutter Butter worth 7630 calories
+Thranduil is carrying 56716 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Bing has a Ritz Crackers worth 6419 calories
+Bing has a Cashews worth 1010 calories
+Bing has a Doritos worth 4394 calories
+Bing has a Oatmeal Cream Pies worth 3625 calories
+Bing has a Sun Chips worth 7079 calories
+Bing has a Chocolate Chip Coookies worth 3272 calories
+Bing has a Milky Way worth 1476 calories
+Bing has a Nutter Butter worth 4141 calories
+Bing is carrying 37299 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Buddy has a Ritz Crackers worth 5456 calories
+Buddy has a Doritos worth 12132 calories
+Buddy has a UTZ Cheese Balls worth 11974 calories
+Buddy has a Bugels worth 2482 calories
+Buddy has a Nutter Butter worth 11305 calories
+Buddy is carrying 53243 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Winky has a Ritz Crackers worth 2319 calories
+Winky has a Butterfinger worth 3185 calories
+Winky has a 100 Grand worth 4965 calories
+Winky has a Reese's Peanut Butter Cups worth 3813 calories
+Winky has a Doritos worth 1614 calories
+Winky has a Oatmeal Cream Pies worth 5452 calories
+Winky has a Sun Chips worth 1123 calories
+Winky has a Chocolate Chip Coookies worth 6245 calories
+Winky has a Milky Way worth 5844 calories
+Winky has a Bugels worth 4140 calories
+Winky is carrying 52775 calories worth of food
+The Elf carrying the most calories is Snap with 69206
+Test Case '-[AoC_Tests_2022.Day_1 testExample]' passed (3.810 seconds).
+Test Suite 'Day_1' passed at 2022-12-03 00:10:42.040.
+	 Executed 1 test, with 0 failures (0 unexpected) in 3.810 (3.811) seconds
